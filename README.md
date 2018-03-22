@@ -1,1 +1,2 @@
-# learning
+# IITG ML/AI Focused Group
+
