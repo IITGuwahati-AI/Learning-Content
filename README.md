@@ -12,6 +12,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Konark Jain](https://github.com/konqr)
 - [Apoorv Kumar](https://github.com/cybr17crwlr)
 - [Aman Dalmia](http://github.com/dalmia)
+- [Ripunjoy Medhi](http://github.com/ripunjoym)
 
 ## Important Links
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
