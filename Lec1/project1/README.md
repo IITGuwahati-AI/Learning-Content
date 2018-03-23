@@ -27,4 +27,4 @@ The toppers of the *leaderboards* will be given prizes.
 
 3. After **Thursday night** no request will be entertained.
 
-4. For any serious dout regarding code oe data set create an issue in this very repository. Please do not comment on the FB post with your doubts.
+4. For any serious doubt regarding code on data set create an issue in this very repository. Please do not comment on the FB post with your doubts.
