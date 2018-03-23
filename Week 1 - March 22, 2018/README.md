@@ -12,7 +12,7 @@
 # Installation:
 Do the prerequistes yourself like installing `Ubuntu` and `pip`.
 
-For Python : `sudo apt-get install python3`
+For Python : `sudo apt-get install python3` <br>
 For numpy, matplotlib and scikit-learn: `sudo pip install numpy` (repeat the same for the rest)
 
 [1]: https://pypi.python.org/pypi/pip
