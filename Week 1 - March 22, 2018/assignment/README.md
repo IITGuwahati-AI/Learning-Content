@@ -6,7 +6,7 @@
 
 3. Find the **two features** which can classify the **two labels** perfectly.
 
-4. **For the brave hearted (optional but with *bonus* points!): use scikitlearn to apply principal component analysis and the best two feature and check if they are same as you observed**. 
+4. **For the brave hearted (optional but with *bonus* points!): use scikitlearn to apply Principal Component Analysis(PCA) ([Link](http://files.isec.pt/DOCUMENTOS/SERVICOS/BIBLIO/Documentos%20de%20acesso%20remoto/Principal%20components%20analysis.pdf) for in depth knowledge) and find the best two features and check if they are same as you observed**. 
 
 # Point System
 
