@@ -19,7 +19,7 @@ The bonus task weights *50 points*.
 The toppers of the *leaderboards* will be given prizes.
 
 # How to Submit Solution
-[Git Tutorial](https://www.learnenough.com/git-tutorial)
+[GitHub Tutorial](https://guides.github.com/activities/hello-world/)
 
 1. Fork this *repository*
 
