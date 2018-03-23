@@ -1,6 +1,6 @@
 # Instructions
 
-1. Import into matrix using np
+1. Import into matrix using numpy
 
 2. Plot all features vs each other using matplotlib. red for 1 and blue for 2. clearly denote axes. title of the plot. and axes should have proper markings.
 
