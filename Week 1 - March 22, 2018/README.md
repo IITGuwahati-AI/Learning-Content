@@ -1,29 +1,25 @@
 ## INTRODUCTORY LECTURE:
 
-# To-Do by next meeting:
-1. Install **Linux**.
-2. Install **Python 3.x**.
-3. Install **numpy, matplotlib, scikit-learn, TensorFlow(optional for now), Keras(optional for now)**
-4. Complete the first 4 chapters of **[Deep Learning Book][1]** and Probability notes(Bora Notes.pdf) uploaded uptil page 104.
-5. Create a **LinkdIn , Github , Medium** Profile.
+# To-Do before next meeting:
+1. Install [Linux][6].
+2. Install [Python 3.x][7].
+3. Install numpy, matplotlib, scikit-learn, TensorFlow(optional for now), Keras(optional for now). Use [pip][1]
+4. Complete the first 4 chapters of the [Deep Learning Book][2] and the probability notes uploaded, uptil page 104.
+5. Create a [LinkedIn][3] , [Github][4] , [Medium][5] profile.
 6. Do The tutorials on Python link attached.
 7. Do the Project in Project folder and submit the solution with the code.
 
-# Commands:
-Do The Prerequistes yourself Like installing `ubuntu` and `pip`
+# Installation:
+Do the prerequistes yourself like installing `Ubuntu` and `pip`.
 
-For **Python** : `sudo apt-get install python3`
+For Python : `sudo apt-get install python3`
+For numpy, matplotlib and scikit-learn: `sudo pip install numpy` (repeat the same for the rest)
 
-For **numpy, matplotlib, scikit-learn** : `sudo pip install numpy` Repeat the same for other three.
-
-# Links:
-[1]: http://www.deeplearningbook.org/
-
-[Python](http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/)
-
-[Numpy](https://scipy.org/install.html)
-
-[Sci-kit Learn](http://scikit-learn.org/stable/install.html)
-
-[Tutorial on Python](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
+[1]: https://pypi.python.org/pypi/pip
+[2]: http://www.deeplearningbook.org/
+[3]: http://linkedin.com
+[4]: http://github.com
+[5]: http://medium.com
+[6]: http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/
+[7]: http://docs.python-guide.org/en/latest/starting/install3/linux/
 
