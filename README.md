@@ -6,19 +6,20 @@ This repository contains the resources that are discussed during the weekly meet
 
 - March 22: [Introduction](https://goo.gl/SaoxZQ) by [Aman Dalmia](http://github.com/dalmia)
 
+## Important Links
+- [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
+- [Important blogs](https://stats385.github.io/blogs)
+- [Deep Learning cheat sheet](https://stats385.github.io/cheat_sheet)
+- [Pioneers in the Field - People you need to follow](https://stats385.github.io/personalities)
 
 ## Members
 
 - [Konark Jain](https://github.com/konqr)
-- [Apoorv Kumar](https://github.com/cybr17crwlr)
+- [Apoorva Kumar](https://github.com/cybr17crwlr)
 - [Aman Dalmia](http://github.com/dalmia)
 - [Abhinav Hinger](https://github.com/abhinavhinger12)
 - [Ripunjoy Medhi](http://github.com/ripunjoym)
 - [Shivam Bansal](https://github.com/ratherlongname)
 
 
-## Important Links
-- [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
-- [Important blogs](https://stats385.github.io/blogs)
-- [Deep Learning cheat sheet](https://stats385.github.io/cheat_sheet)
-- [Pioneers in the Field - People you need to follow](https://stats385.github.io/personalities)
+
