@@ -12,3 +12,9 @@ This repository contains the resources that are discussed during the weekly meet
 - [Konark Jain](https://github.com/konqr)
 - [Apoorv Kumar](https://github.com/cybr17crwlr)
 - [Aman Dalmia](http://github.com/dalmia)
+
+## Important Links
+- [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
+- [Important blogs](https://stats385.github.io/blogs)
+- [Deep Learning cheat sheet](https://stats385.github.io/cheat_sheet)
+- [Pioneers in the Field - People you need to follow](https://stats385.github.io/personalities)
