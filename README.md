@@ -13,6 +13,9 @@ This repository contains the resources that are discussed during the weekly meet
 - [Apoorv Kumar](https://github.com/cybr17crwlr)
 - [Aman Dalmia](http://github.com/dalmia)
 - [Abhinav Hinger](https://github.com/abhinavhinger12)
+- [Ripunjoy Medhi](http://github.com/ripunjoym)
+- [Shivam Bansal](https://github.com/ratherlongname)
+
 
 ## Important Links
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
