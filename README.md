@@ -20,6 +20,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Abhinav Hinger](https://github.com/abhinavhinger12)
 - [Ripunjoy Medhi](http://github.com/ripunjoym)
 - [Shivam Bansal](https://github.com/ratherlongname)
+- [vivek kumar](https://github.com/vivek0464)
 - [Addrish Roy](https://github.com/Royadd)
 -[Sayani Kundu](https://github.com/SayaniKundu)
 
