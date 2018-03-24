@@ -25,3 +25,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Addrish Roy](https://github.com/Royadd)
 - [Sayani Kundu](https://github.com/SayaniKundu)
 - [Rhythm Kanchugantla](https://github.com/rhyth170101028)
+- [Mukul Ranjan](https://github.com/mukul54)
