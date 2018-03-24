@@ -21,5 +21,5 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ripunjoy Medhi](http://github.com/ripunjoym)
 - [Shivam Bansal](https://github.com/ratherlongname)
 
-
+-[Sayani Kundu](https://github.com/SayaniKundu)
 
