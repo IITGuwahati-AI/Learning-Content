@@ -23,4 +23,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [vivek kumar](https://github.com/vivek0464)
 - [Addrish Roy](https://github.com/Royadd)
 - [Sayani Kundu](https://github.com/SayaniKundu)
-
+-[Rhythm Kanchugantla](https://github.com/rhyth170101028)
