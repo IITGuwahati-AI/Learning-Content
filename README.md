@@ -22,5 +22,5 @@ This repository contains the resources that are discussed during the weekly meet
 - [Shivam Bansal](https://github.com/ratherlongname)
 - [vivek kumar](https://github.com/vivek0464)
 - [Addrish Roy](https://github.com/Royadd)
--[Sayani Kundu](https://github.com/SayaniKundu)
+- [Sayani Kundu](https://github.com/SayaniKundu)
 
