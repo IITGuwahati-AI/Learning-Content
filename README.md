@@ -17,6 +17,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Konark Jain](https://github.com/konqr)
 - [Apoorva Kumar](https://github.com/cybr17crwlr)
 - [Aman Dalmia](http://github.com/dalmia)
+- [Manideep Kolla](http://github.com/manideep2510)
 - [Abhinav Hinger](https://github.com/abhinavhinger12)
 - [Ripunjoy Medhi](http://github.com/ripunjoym)
 - [Shivam Bansal](https://github.com/ratherlongname)
