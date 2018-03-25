@@ -29,3 +29,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mukul Ranjan](https://github.com/mukul54)
 - [Trikay Nalamada](https://github.com/trikaynalamada)
 - [Anupam Khandelwal](https://github.com/anupamkhandelwal)
+- [Aniket](https://github.com/Aniket-Pratik)
