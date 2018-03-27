@@ -33,3 +33,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aniket](https://github.com/Aniket-Pratik)
 - [Apurva N. Saraogi](https://github.com/apurva91)
 - [Ayush Sharma](https://github.com/AShar97/)
+- [Divy Ranjan](https://github.com/divyranjan17)
