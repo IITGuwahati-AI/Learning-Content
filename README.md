@@ -30,3 +30,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Trikay Nalamada](https://github.com/trikaynalamada)
 - [Anupam Khandelwal](https://github.com/anupamkhandelwal)
 - [Aniket](https://github.com/Aniket-Pratik)
+- [Apurva N. Saraogi](https://github.com/apurva91)
