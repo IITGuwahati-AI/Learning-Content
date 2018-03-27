@@ -35,3 +35,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ayush Sharma](https://github.com/AShar97/)
 - [Divy Ranjan](https://github.com/divyranjan17)
 - [Vikrant Prasad](https://github.com/vikrantprasad5)
+- [Abhishek Tiwari](https://github.com/Akainu18448)
