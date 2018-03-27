@@ -32,3 +32,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Anupam Khandelwal](https://github.com/anupamkhandelwal)
 - [Aniket](https://github.com/Aniket-Pratik)
 - [Apurva N. Saraogi](https://github.com/apurva91)
+- [Ayush Sharma](https://github.com/AShar97/)
