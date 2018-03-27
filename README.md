@@ -34,3 +34,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Apurva N. Saraogi](https://github.com/apurva91)
 - [Ayush Sharma](https://github.com/AShar97/)
 - [Divy Ranjan](https://github.com/divyranjan17)
+- [Vikrant Prasad](https://github.com/vikrantprasad5)
