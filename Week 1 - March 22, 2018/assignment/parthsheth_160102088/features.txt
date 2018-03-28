@@ -1,0 +1,1 @@
+The features 1 and 2 are the ones that best classify the 2 labels, as the plot obtained contains the labels most distinctly separated with least overlap.
