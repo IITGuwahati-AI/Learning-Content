@@ -36,3 +36,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Divy Ranjan](https://github.com/divyranjan17)
 - [Vikrant Prasad](https://github.com/vikrantprasad5)
 - [Abhishek Tiwari](https://github.com/Akainu18448)
+- [Mihir Yadav](https://github.com/mihir-yadav)
