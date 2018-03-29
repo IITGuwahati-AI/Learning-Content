@@ -4,7 +4,7 @@ This repository contains the resources that are discussed during the weekly meet
 
 ## Schedule
 
-- March 22: [Introduction](https://goo.gl/SaoxZQ) by [Aman Dalmia](http://github.com/dalmia)
+- March 22: [Introduction](https://goo.gl/SaoxZQ)  by [Aman Dalmia](http://github.com/dalmia)
 
 ## Important Links
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
