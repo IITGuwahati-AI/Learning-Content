@@ -14,6 +14,8 @@ plt.xlabel('1st attribute')
 plt.ylabel('2nd attribute')
 plt.show()
 
+l=0
+
 #	FOR DRAWING ALL POSSIBLE PLOTS
 for j in range (1,11):
 	for k in range (1,11) :
@@ -29,3 +31,4 @@ for j in range (1,11):
 			l=l+1
 			p=str(l)
 			plt.savefig(p)
+			plt.clf()
