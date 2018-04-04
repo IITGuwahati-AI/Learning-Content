@@ -7,6 +7,8 @@ This repository contains the resources that are discussed during the weekly meet
 - March 22: [Introduction](https://goo.gl/SaoxZQ)  by [Aman Dalmia](http://github.com/dalmia)
 
 ## Important Links
+- [CS229 by Stanford University](http://cs229.stanford.edu/)
+- [Siraj Raval's Webpage](http://www.sirajraval.com/)
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
 - [Important blogs](https://stats385.github.io/blogs)
 - [Deep Learning cheat sheet](https://stats385.github.io/cheat_sheet)
