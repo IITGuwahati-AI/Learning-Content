@@ -1,0 +1,2 @@
+By analysing all the plots we found that only in feature 1 v/s feature 2 plot two labels can be best clustered seprately without losing any data point.
+So, best classification is Feature 1 v/s feature 2
