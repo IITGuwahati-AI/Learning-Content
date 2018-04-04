@@ -40,3 +40,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mihir Yadav](https://github.com/mihir-yadav)
 - [Aditya Mehndiratta](https://github.com/addy369)
 - [Amit Kumar](https://github.com/Amit152116Kumar)
+- [Vishal Kumar Jamuar](https://github.com/Vishal-Kumar-Jamuar)
