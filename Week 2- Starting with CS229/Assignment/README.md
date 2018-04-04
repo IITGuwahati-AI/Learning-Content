@@ -16,7 +16,7 @@ Total achievable points: 60
 
 Submitting a self made summary or presentation of the paper reading given will be awarded 10 points.
 
-# Grand Total Points for this week = 110
+`Grand Total Points for this week = 110`
 
 ## SUBMISSION GUIDELINES
 
