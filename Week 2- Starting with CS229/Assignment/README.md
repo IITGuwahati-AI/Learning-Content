@@ -18,9 +18,11 @@ Submitting a self made summary or presentation of the paper reading given will b
 
 # Grand Total Points for this week = 110
 
-## Submission Guidelines
+## SUBMISSION GUIDELINES
 
-# Deadline: 14th April 2018; 11:59 PM
+# Deadline: 
+
+14th April 2018; 11:59 PM
 
 # Procedure:
 
