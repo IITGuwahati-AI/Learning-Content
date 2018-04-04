@@ -19,11 +19,11 @@ for k in range(1,10):
 		a = []
 		for i in range(1,1000):
 			if matrix[i,0]==2:
-				a=np.append(x,[matrix[i,k]]) 	#Slicing k-th column from matrix of label 2
+				a=np.append(a,[matrix[i,k]]) 	#Slicing k-th column from matrix of label 2
 		b=[]
 		for i in range(1,1000):
 			if matrix[i,0]==2:
-				b=np.append(y,[matrix[i,j]])	#Slicing j-th column from matrix of label 2
+				b=np.append(b,[matrix[i,j]])	#Slicing j-th column from matrix of label 2
 
 		
 		plt.scatter(a,b)
