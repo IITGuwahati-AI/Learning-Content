@@ -17,3 +17,11 @@ Total achievable points: 60
 Submitting a self made summary or presentation of the paper reading given will be awarded 10 points.
 
 # Grand Total Points for this week = 110
+
+## Submission Guidelines
+
+# Deadline: 14th April 2018; 11:59 PM
+
+# Procedure:
+
+Make a pull request to [this repo](https://github.com/IITGuwahati-AI/Week-2-Submissions/tree/master) when you are done with the assignment. DO NOT make a pull request to this repo. We will be merging every submission to the Submissions repo and will upload the best solution here in this repo.
