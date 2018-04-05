@@ -1,4 +1,4 @@
-# Week 2 Assignment:
+# Week 2 Assignment
 
 Find the distribution of points for the assignments, below:
 - **Compulsory Assignment**: Complete tasks 1(b) (10 points), 1(c) (5 points), 5(b) (6 points) and 5(c) (19 points) from the uploaded PDF. You may complete all other questions, for better practice in math, in the PDF but they do not have any points.
