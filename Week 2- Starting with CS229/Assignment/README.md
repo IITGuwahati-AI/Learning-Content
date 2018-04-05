@@ -26,4 +26,4 @@ Submitting a self made summary or presentation of the paper reading given will b
 
 # Procedure:
 
-Make a pull request to [this repo](https://github.com/IITGuwahati-AI/Week-2-Submissions/tree/master) when you are done with the assignment. DO NOT make a pull request to this repo. We will be merging every submission to the Submissions repo and will upload the best solution here in this repo.
+Make a pull request to [this other repository](https://github.com/IITGuwahati-AI/Week-2-Submissions/tree/master) when you are done with the assignment. DO NOT make a pull request to the Learning Content repository. We will be merging every submission to the Submissions repo and will upload the best solution here in this repo.
