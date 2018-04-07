@@ -43,3 +43,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aditya Mehndiratta](https://github.com/addy369)
 - [Amit Kumar](https://github.com/Amit152116Kumar)
 - [Vishal Kumar Jamuar](https://github.com/Vishal-Kumar-Jamuar)
+- [Aayush](https://github.com/aayushsynth)
