@@ -35,9 +35,6 @@ This repository contains the resources that are discussed during the weekly meet
 - [Anupam Khandelwal](https://github.com/anupamkhandelwal)
 - [Aniket](https://github.com/Aniket-Pratik)
 - [Apurva N. Saraogi](https://github.com/apurva91)
-<<<<<<< HEAD
-- [Ayush Sharma](https://github.com/AShar97/)
-=======
 - [Ayush Sharma](https://github.com/AShar97/)
 - [Divy Ranjan](https://github.com/divyranjan17)
 - [Vikrant Prasad](https://github.com/vikrantprasad5)
@@ -48,4 +45,3 @@ This repository contains the resources that are discussed during the weekly meet
 - [Vishal Kumar Jamuar](https://github.com/Vishal-Kumar-Jamuar)
 - [Priyanshu Barnwal](https://github.com/priyanshu3010)
 - [Aayush](https://github.com/aayushsynth)
->>>>>>> upstream/master
