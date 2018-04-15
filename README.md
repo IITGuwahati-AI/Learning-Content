@@ -45,3 +45,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Vishal Kumar Jamuar](https://github.com/Vishal-Kumar-Jamuar)
 - [Priyanshu Barnwal](https://github.com/priyanshu3010)
 - [Aayush](https://github.com/aayushsynth)
+- [Satish Agrahari](https://github.com/Satish124816)
