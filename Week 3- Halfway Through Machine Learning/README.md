@@ -1,4 +1,4 @@
-## Session 2: HalfWay Through Machine Learning
+## Session 3: HalfWay Through Machine Learning
 
 We will be continuing with our course work:
 - [CS229][1] from Stanford University
