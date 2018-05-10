@@ -8,7 +8,7 @@ We will be continuing with our course work:
 
 1. Complete Uptil Lecture 10 from the [CS229 course][1]. Try making notes for every video you watch. It'll be helpful down the lane.
 2. Complete videos till week 4 of Siraj Raval's [Math of Intelligence][2] (total 8 videos).
-3. Study [this][3] paper who didnt do it before
+3. Study [this][3] paper who didn't do it before
 
 # Optional for Bonus Points:
 
