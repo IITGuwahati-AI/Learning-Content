@@ -17,7 +17,7 @@ This repository contains the resources that are discussed during the weekly meet
 | 1     | 5th April 2018   |CS229- Week 1 to 5            |13th April 2018  |
 | 2     | 11th May 2018    |CS229- Week 1 to 10           |17th May 2018    |
 | 3     | 18th May 2018    |CS229- Week 1 to 15           |24th May 2018    |
-| 4     | 25th May 2018    |CS229- Weel 1 to 20           |31st May 2018    |
+| 4     | 25th May 2018    |CS229- Week 1 to 20           |31st May 2018    |
 |5      | 1st June 2018    | Starting of DeepLearning.ai  | --              |
 
 ## Members
