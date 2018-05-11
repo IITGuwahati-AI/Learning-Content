@@ -2,10 +2,6 @@
 
 This repository contains the resources that are discussed during the weekly meetings of IITG.ai - the study group in IIT Guwahati focused on **Machine learning** and **Artificial intelligence** - presently working to build a community of AI enthusiasts in IIT Guwahati. Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
 
-## Schedule
-
-- March 22: [Introduction](https://goo.gl/SaoxZQ)  by [Aman Dalmia](http://github.com/dalmia)
-
 ## Important Links
 - [CS229 by Stanford University](http://cs229.stanford.edu/)
 - [Siraj Raval's Webpage](http://www.sirajraval.com/)
@@ -13,6 +9,17 @@ This repository contains the resources that are discussed during the weekly meet
 - [Important blogs](https://stats385.github.io/blogs)
 - [Deep Learning cheat sheet](https://stats385.github.io/cheat_sheet)
 - [Pioneers in the Field - People you need to follow](https://stats385.github.io/personalities)
+
+## Timeline
+|Week   |Start Date        |Content                       |End Date         |
+|-------|------------------|------------------------------|-----------------|
+| 0     | 22nd March 2018  |use of matplotlib and numpy   |4th April 2018   |
+| 1     | 5th April 2018   |CS229- Week 1 to 5            |13th April 2018  |
+| 2     | 11th May 2018    |CS229- Week 1 to 10           |17th May 2018    |
+| 3     | 18th May 2018    |CS229- Week 1 to 15           |24th May 2018    |
+| 4     | 25th May 2018    |CS229- Weel 1 to 20           |31st May 2018    |
+|-------|------------------|------------------------------|-----------------|
+|5      | 1st June 2018    | Starting of DeepLearning.ai  | --              |
 
 ## Members
 
