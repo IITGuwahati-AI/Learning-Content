@@ -1,4 +1,4 @@
-## Session 3: HalfWay Through Machine Learning
+## Session 4: Enter The Field of Unsupervised Learning
 
 We will be continuing with our course work:
 - [CS229][1] from Stanford University
