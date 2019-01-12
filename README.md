@@ -9,6 +9,13 @@ This repository contains the resources that are discussed during the weekly meet
 - [Important blogs](https://stats385.github.io/blogs)
 - [Deep Learning cheat sheet](https://stats385.github.io/cheat_sheet)
 - [Pioneers in the Field - People you need to follow](https://stats385.github.io/personalities)
+- [Python Implementation of Andrew Ng’s Machine Learning Course](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)
+- [Andrew Ng’s Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+- [Matplotlib Crash Course Python Tutorial - sentdex](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+- [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
 
 ## Timeline
 |Week   |Start Date        |Content                       |End Date         |
@@ -18,7 +25,7 @@ This repository contains the resources that are discussed during the weekly meet
 | 2     | 11th May 2018    |CS229- Week 1 to 10           |17th May 2018    |
 | 3     | 18th May 2018    |CS229- Week 1 to 15           |24th May 2018    |
 | 4     | 25th May 2018    |CS229- Week 1 to 20           |31st May 2018    |
-|5      | 1st June 2018    | Starting of DeepLearning.ai  | --              |
+| 5     | 1st June 2018    | Starting of DeepLearning.ai  | --              |
 
 ## Members
 
@@ -53,3 +60,32 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aayush](https://github.com/aayushsynth)
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
+
+
+# Phase 2 - 2019
+
+
+  ## Timeline
+  |Week   |Start Date        |Content                                            |End Date         |
+  |-------|------------------|---------------------------------------------------|-----------------|
+  | 0     | 12th Jan 2019    |use of matplotlib,numpy and pandas                 |19th Jan 2019    |
+  | 1     | 20th Jan 2019    |ML Coursera Week 1 and 2                           |26th Jan 2019    |
+  | 2     | 28th jan 2019    |ML Coursera Week 3                                 |2nd feb 2019     |
+  | 3     | 3rd Feb 2019     |ML Coursera Week 4                                 |9th Feb 2019     |
+  | 4     | 10th Feb 2019    |ML Coursera Week 4                                 |16th Feb 2019    |
+  | 5     | 1st March 2019   |ML Coursera Week 5 and 6                           |9th March 2019   |
+  | 6     | 10st March 2019  |ML Coursera Week 7                                 |16th March 2019  |
+  | 7     | 17st March 2019  |ML Coursera Week 8                                 |23rd March 2019  |
+  | 8     | 24th March 2019  |ML Coursera Week 9                                 |30th March 2019  |
+  | 9     | 31st March 2019  |ML Coursera Week 10                                |6th April 2019   |
+  | 10    | 7th April 2019   |ML Coursera Week 11                                |13th April 2019  |
+  | 11    | 14th April 2019  |Kaggle competition                                 |24th April 2019  |
+  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
+  
+## Members
+
+- [Konark Jain](https://github.com/konqr)
+- [Apoorva Kumar](https://github.com/cybr17crwlr)
+- [Mukul Ranjan](https://github.com/mukul54)
+- [Mahesh](https://github.com/Mahesh1735)
+- [Jayant Prakash](https://github.com/jayantp07)
