@@ -43,6 +43,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mukul Ranjan](https://github.com/mukul54)
 - [Mahesh](https://github.com/Mahesh1735)
 - [Jayant Prakash](https://github.com/jayantp07)
+- [Aditya Mehndiratta](https://github.com/addy369)
 
 # Phase 1 - 2018
 
