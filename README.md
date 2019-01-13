@@ -44,7 +44,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mahesh](https://github.com/Mahesh1735)
 - [Jayant Prakash](https://github.com/jayantp07)
 - [Aditya Mehndiratta](https://github.com/addy369)
-
+- [Animesh Tiwari](https://github.com/animeshrdso)
 # Phase 1 - 2018
 
 ## Timeline
