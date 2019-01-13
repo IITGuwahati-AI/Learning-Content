@@ -45,7 +45,8 @@ This repository contains the resources that are discussed during the weekly meet
 - [Jayant Prakash](https://github.com/jayantp07)
 - [Aditya Mehndiratta](https://github.com/addy369)
 - [Ayush Jain](https://github.com/AJ-54)
-
+- [Animesh Tiwari](https://github.com/animeshrdso)
+- [JATIN KODALI](https://github.com/JATIN42)
 
 # Phase 1 - 2018
 
