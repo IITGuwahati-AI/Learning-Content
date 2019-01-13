@@ -38,12 +38,6 @@ This repository contains the resources that are discussed during the weekly meet
   
 ## Members
 
-- [Konark Jain](https://github.com/konqr)
-- [Apoorva Kumar](https://github.com/cybr17crwlr)
-- [Mukul Ranjan](https://github.com/mukul54)
-- [Mahesh](https://github.com/Mahesh1735)
-- [Jayant Prakash](https://github.com/jayantp07)
-- [Aditya Mehndiratta](https://github.com/addy369)
 - [Ayush Jain](https://github.com/AJ-54)
 - [Animesh Tiwari](https://github.com/animeshrdso)
 - [JATIN KODALI](https://github.com/JATIN42)
