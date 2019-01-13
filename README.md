@@ -37,7 +37,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 13    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
   
 ## Members
-
+- [Mukul Ranjan](https://github.com/mukul54)
 - [Ayush Jain](https://github.com/AJ-54)
 - [Animesh Tiwari](https://github.com/animeshrdso)
 - [JATIN KODALI](https://github.com/JATIN42)
