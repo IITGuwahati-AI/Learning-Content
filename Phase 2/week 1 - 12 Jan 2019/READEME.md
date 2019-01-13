@@ -1,5 +1,3 @@
-## INTRODUCTORY LECTURE:
-
 # To-Do before next meeting:
 1. Install [Anaconda](https://www.anaconda.com/download/)
 2. Install scikit-learn, TensorFlow(optional for now), Keras(optional for now) using Conda.
