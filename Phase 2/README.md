@@ -1,7 +1,3 @@
-# To-Do before next meeting:
-1. Install [Anaconda](https://www.anaconda.com/download/)
-2. Install scikit-learn, TensorFlow(optional for now), Keras(optional for now) using Conda.
-3. Complete the [Python Numpy](http://cs231n.github.io/python-numpy-tutorial/) tutorial attached.
-4. Complete the [Matplotlib Crash Course Python Tutorial - sentdex](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
-5. Complete the [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
-6. Complete the Assignment in the `assignment` folder and submit the solution with the code.
+# Phase 2 2019
+
+This repository contains the resources that are discussed during the weekly meetings of **Phase 2** of IITG.ai - the study group in IIT Guwahati focused on **Machine learning** and **Artificial intelligence** - presently working to build a community of AI enthusiasts in IIT Guwahati. Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas. We welcome all the new members of IITG.ai and request you to add yourself in the member list of Phase 2 2019 by creating a pull request.
