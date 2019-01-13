@@ -15,7 +15,7 @@ We will be continuing with our course work:
 
 # Optional for Bonus Points:
 
-Implement all that you have learned in the Siraj Raval Video Series. You can find each coding challenge in the description of the respective videos. Learning the intricacies of implementation is equally important too. The videos provide a Jupyter Notebook that Siraj has followed. The minimum you can do is to simply replicate the notebook by re-writing every single line of code. There's no way for us to check whether you have just renamed that notebook and submitted (and we don't want to know either). It is totally for your learning and writing each and every line of code yourself, would go a long way in strengthening your understanding. Please don't treat this as we treat the course assignments given in our college.
+Implement all that you have learned in the Siraj Raval Video Series. You can find each coding challenge in the description of the respective videos. Learning the intricacies of implementation is equally important too. The videos provide a Jupyter Notebook that Siraj has followed. The minimum you can do is to simply replicate the notebook by re-writing every single line of code. There's no way for us to check whether you have just renamed that notebook and submitted (and we don't want to know either). It is totally for your learning and writing each and every line of code yourself, would go a long way in strengthening your understanding. Please don't treat this as we treat the course assignments given in our college.Do this sincerely .
 
 [1]: https://www.youtube.com/playlist?list=PLFC36A799B7FFD0CF
 [2]: https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
