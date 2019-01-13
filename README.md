@@ -39,6 +39,7 @@ This repository contains the resources that are discussed during the weekly meet
 ## Members
 
 - [Ayush Jain](https://github.com/AJ-54)
+- [Siddhartha Jain](https://github.com/siddhart18)
 - [Animesh Tiwari](https://github.com/animeshrdso)
 - [JATIN KODALI](https://github.com/JATIN42)
 - [Suyash Baghel](https://github.com/suyashbaghel)
