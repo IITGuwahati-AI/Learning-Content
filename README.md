@@ -41,6 +41,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ayush Jain](https://github.com/AJ-54)
 - [Animesh Tiwari](https://github.com/animeshrdso)
 - [JATIN KODALI](https://github.com/JATIN42)
+- [Suyash Baghel](https://github.com/suyashbaghel)
 
 # Phase 1 - 2018
 
