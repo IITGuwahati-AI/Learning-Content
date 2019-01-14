@@ -44,6 +44,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mahesh](https://github.com/Mahesh1735)
 - [Jayant Prakash](https://github.com/jayantp07)
 - [Aditya Mehndiratta](https://github.com/addy369)
+- [Girija Prasanna](https://github.com/Demigo0000)
 
 # Phase 1 - 2018
 
