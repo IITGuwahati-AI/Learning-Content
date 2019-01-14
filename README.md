@@ -44,8 +44,10 @@ This repository contains the resources that are discussed during the weekly meet
 - [JATIN KODALI](https://github.com/JATIN42)
 - [Suyash Baghel](https://github.com/suyashbaghel)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
-- [Touquir Ahmad].(https://github.com/Touquir)
-- [Rahat Reza].(https://github.com/Rahatrezaaa)
+- [Touquir Ahmad](https://github.com/Touquir)
+- [Rahat Reza](https://github.com/Rahatrezaaa)
+
+
 
 # Phase 1 - 2018
 
