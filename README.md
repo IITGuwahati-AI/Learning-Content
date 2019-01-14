@@ -38,6 +38,8 @@ This repository contains the resources that are discussed during the weekly meet
   
 ## Members
 
+
+- [Girija Prasanna](https://github.com/Demigo0000)
 - [Ayush Jain](https://github.com/AJ-54)
 - [Siddhartha Jain](https://github.com/siddhart18)
 - [Animesh Tiwari](https://github.com/animeshrdso)
@@ -46,8 +48,6 @@ This repository contains the resources that are discussed during the weekly meet
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Touquir Ahmad](https://github.com/Touquir)
 - [Rahat Reza](https://github.com/Rahatrezaaa)
-
-
 
 # Phase 1 - 2018
 
