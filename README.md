@@ -48,6 +48,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Touquir Ahmad](https://github.com/Touquir)
 - [Rahat Reza](https://github.com/Rahatrezaaa)
+- [Mendu Sai Krishna](https://github.com/themendu)
 
 # Phase 1 - 2018
 
