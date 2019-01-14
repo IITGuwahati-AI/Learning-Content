@@ -43,6 +43,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Animesh Tiwari](https://github.com/animeshrdso)
 - [JATIN KODALI](https://github.com/JATIN42)
 - [Suyash Baghel](https://github.com/suyashbaghel)
+- [Abhilash Reddy](https://github.com/abhilashreddys)
 
 # Phase 1 - 2018
 
