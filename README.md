@@ -48,6 +48,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Abhilash Reddy](https://github.com/abhilashreddys)
 - [Touquir Ahmad](https://github.com/Touquir)
 - [Rahat Reza](https://github.com/Rahatrezaaa)
+- [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
 
 # Phase 1 - 2018
 
@@ -94,4 +95,3 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aayush](https://github.com/aayushsynth)
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
-- [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
