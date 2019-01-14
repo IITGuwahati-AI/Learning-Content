@@ -7,7 +7,7 @@
 4. Install [Jupyter Notebook][8].
 5. Complete the first 4 chapters of the [Deep Learning Book][2] and the probability notes uploaded, uptil page 104. [Additional Resource][9]
 6. Create a [LinkedIn][3] , [Github][4] , [Medium][5] profile.
-7. Complete the Python tutorial attached.
+7. Complete the Python tutorial attached here.
 8. Complete the Assignment in the `assignment` folder and submit the solution with the code.
 
 # Installation:

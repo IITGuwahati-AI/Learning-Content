@@ -38,13 +38,16 @@ This repository contains the resources that are discussed during the weekly meet
   
 ## Members
 
-- [Konark Jain](https://github.com/konqr)
-- [Apoorva Kumar](https://github.com/cybr17crwlr)
-- [Mukul Ranjan](https://github.com/mukul54)
-- [Mahesh](https://github.com/Mahesh1735)
-- [Jayant Prakash](https://github.com/jayantp07)
-- [Aditya Mehndiratta](https://github.com/addy369)
+
 - [Girija Prasanna](https://github.com/Demigo0000)
+- [Ayush Jain](https://github.com/AJ-54)
+- [Siddhartha Jain](https://github.com/siddhart18)
+- [Animesh Tiwari](https://github.com/animeshrdso)
+- [JATIN KODALI](https://github.com/JATIN42)
+- [Suyash Baghel](https://github.com/suyashbaghel)
+- [Abhilash Reddy](https://github.com/abhilashreddys)
+- [Touquir Ahmad](https://github.com/Touquir)
+- [Rahat Reza](https://github.com/Rahatrezaaa)
 
 # Phase 1 - 2018
 
@@ -91,5 +94,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aayush](https://github.com/aayushsynth)
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
-
 
