@@ -50,6 +50,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Rahat Reza](https://github.com/Rahatrezaaa)
 - [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
 - [Mendu Sai Krishna](https://github.com/themendu)
+- [Gaurav Agarwal](https://github.com/gaurav7019)
 
 
 # Phase 1 - 2018
