@@ -51,7 +51,9 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
 - [Mendu Sai Krishna](https://github.com/themendu)
 - [Adepu Vishalvardhan](https://github.com/vishal-vardhan)
+- [Sai Dhanush](https://github.com/dhanush1708)
 - [Krishna Kaushik Kolluri](https://github.com/krishna-kaushik)
+
 
 
 # Phase 1 - 2018
