@@ -57,7 +57,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Eshwar Nukala](https://github.com/eshwar28)
 - [ARPIT KUMAR JAIN](https://github.com/arpitkekri)
 - [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
-
+- [Rohit Nandwani](https://github.com/nandwani-rohit)
 
 
 # Phase 1 - 2018
