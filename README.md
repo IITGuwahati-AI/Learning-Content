@@ -54,6 +54,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Sai Dhanush](https://github.com/dhanush1708)
 - [Krishna Kaushik Kolluri](https://github.com/krishna-kaushik)
 - [SWAYAM BUKHARIA](https://github.com/swayambukharia)
+- [Eshwar Nukala](https://github.com/eshwar28)
 
 
 
@@ -102,4 +103,3 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aayush](https://github.com/aayushsynth)
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
-- [Eshwar Nukala](https://github.com/eshwar28)
