@@ -102,3 +102,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aayush](https://github.com/aayushsynth)
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
+- [Kartikay Goel](https://github.com/krtky123)
