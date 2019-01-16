@@ -56,6 +56,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [SWAYAM BUKHARIA](https://github.com/swayambukharia)
 - [Eshwar Nukala](https://github.com/eshwar28)
 - [ARPIT KUMAR JAIN](https://github.com/arpitkekri)
+- [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
 
 
 
