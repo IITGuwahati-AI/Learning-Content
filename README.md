@@ -58,6 +58,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [ARPIT KUMAR JAIN](https://github.com/arpitkekri)
 - [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
 - [Rohit Nandwani](https://github.com/nandwani-rohit)
+- [Arnav Mathur](https://github.com/arnav77)
 
 
 # Phase 1 - 2018
