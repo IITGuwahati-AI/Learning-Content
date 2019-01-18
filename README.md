@@ -60,6 +60,8 @@ This repository contains the resources that are discussed during the weekly meet
 - [Rohit Nandwani](https://github.com/nandwani-rohit)
 - [Arnav Mathur](https://github.com/arnav77)
 - [Bharath Thakkalapally](https://github.com/bharath2000)
+- [Abhinav Anand](https://github.com/abhinav28071999) 
+
 
 
 # Phase 1 - 2018
