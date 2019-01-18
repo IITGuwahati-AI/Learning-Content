@@ -59,8 +59,10 @@ This repository contains the resources that are discussed during the weekly meet
 - [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
 - [Rohit Nandwani](https://github.com/nandwani-rohit)
 - [Arnav Mathur](https://github.com/arnav77)
+- [Kousik Rajesh](https://github.com/kousikr26)
 - [Bharath Thakkalapally](https://github.com/bharath2000)
 - [Abhinav Anand](https://github.com/abhinav28071999) 
+
 
 
 
