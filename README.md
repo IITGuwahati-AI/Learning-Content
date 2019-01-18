@@ -1,4 +1,4 @@
-﻿# IITG.ai
+# IITG.ai
 
 This repository contains the resources that are discussed during the weekly meetings of IITG.ai - the study group in IIT Guwahati focused on **Machine learning** and **Artificial intelligence** - presently working to build a community of AI enthusiasts in IIT Guwahati. Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
 
@@ -59,7 +59,9 @@ This repository contains the resources that are discussed during the weekly meet
 - [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
 - [Rohit Nandwani](https://github.com/nandwani-rohit)
 - [Arnav Mathur](https://github.com/arnav77)
+- [Bharath Thakkalapally](https://github.com/bharath2000)
 - [Abhinav Anand](https://github.com/abhinav28071999) 
+
 
 
 # Phase 1 - 2018
