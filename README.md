@@ -63,6 +63,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Bharath Thakkalapally](https://github.com/bharath2000)
 - [Abhinav Anand](https://github.com/abhinav28071999) 
 - [Khagesh Kumar](https://github.com/vgskhagesh)
+- [Ahemad Khan](https://github.com/ahemadkhan)
 
 
 
