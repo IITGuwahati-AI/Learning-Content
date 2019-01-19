@@ -31,7 +31,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 7     | 10st March 2019  |ML Coursera Week 7                                 |16th March 2019  |
   | 8     | 17st March 2019  |ML Coursera Week 8                                 |23rd March 2019  |
   | 9     | 24th March 2019  |ML Coursera Week 9                                 |30th March 2019  |
-  | 10     | 31st March 2019  |ML Coursera Week 10                                |6th April 2019   |
+  | 10    | 31st March 2019  |ML Coursera Week 10                                |6th April 2019   |
   | 11    | 7th April 2019   |ML Coursera Week 11                                |13th April 2019  |
   | 12    | 14th April 2019  |Kaggle competition                                 |24th April 2019  |
   | 13    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
@@ -49,6 +49,12 @@ This repository contains the resources that are discussed during the weekly meet
 - [Touquir Ahmad](https://github.com/Touquir)
 - [Rahat Reza](https://github.com/Rahatrezaaa)
 - [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
+- [Mendu Sai Krishna](https://github.com/themendu)
+- [Adepu Vishalvardhan](https://github.com/vishal-vardhan)
+- [Sai Dhanush](https://github.com/dhanush1708)
+- [Krishna Kaushik Kolluri](https://github.com/krishna-kaushik)
+
+
 
 # Phase 1 - 2018
 
