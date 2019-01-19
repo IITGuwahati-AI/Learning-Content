@@ -64,6 +64,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Abhinav Anand](https://github.com/abhinav28071999) 
 - [Khagesh Kumar](https://github.com/vgskhagesh)
 - [Suraj Raj](https://github.com/Suraj3579)
+- [Modabbir Tarique](https://github.com/modabbir24)
 
 
 
