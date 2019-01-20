@@ -11,8 +11,10 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
+#importing data.txt into an array by skipping the first row in data.txt 
 data_file = np.loadtxt('/home/abhilash/Desktop/data.txt',delimiter='\t',skiprows=1)
 
+#ploting graphs aganist features and saving them
 for i in range(1,11):
     for j in range(i+1,11):
         plt.plot(data_file[data_file[:,0]==1,i],data_file[data_file[:,0]==1,j],'r.',label='label1')
@@ -24,6 +26,8 @@ for i in range(1,11):
         plt.savefig('f'+str(i)+'VS'+'f'+str(j)+'.png')
         plt.show()
         
+'''converting 2-dimensional array(feature x and feature y) into 1D array using PCA and
+checking which features can classify labels perfectly'''
 for i in range(1,11):
     for j in range(i+1,11):
         x=np.c_[data_file[:,i],data_file[:,j]]
