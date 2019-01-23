@@ -66,7 +66,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ahemad Khan](https://github.com/ahemadkhan)
 - [Suraj Raj](https://github.com/Suraj3579)
 - [Modabbir Tarique](https://github.com/modabbir24)
-
+- [Ashish Dukare](https://github.com/ashishdukare)
 
 
 
