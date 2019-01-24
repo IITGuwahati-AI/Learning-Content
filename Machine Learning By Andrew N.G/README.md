@@ -1,1 +1,1 @@
-## Machine Learning by *Andrew N.G.* Notes
+## Coursera Machine Learning by *Andrew N.G.* Notes
