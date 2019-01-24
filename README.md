@@ -68,6 +68,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Modabbir Tarique](https://github.com/modabbir24)
 - [Shubham Singh](https://github.com/shubhamdvl)
 - [Ashish Dukare](https://github.com/ashishdukare)
+- [Akshi Mittal](https://github.com/Akshi13)
 
 
 
