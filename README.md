@@ -50,6 +50,29 @@ This repository contains the resources that are discussed during the weekly meet
 - [Rahat Reza](https://github.com/Rahatrezaaa)
 - [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
 - [Mendu Sai Krishna](https://github.com/themendu)
+- [Adepu Vishalvardhan](https://github.com/vishal-vardhan)
+- [Sai Dhanush](https://github.com/dhanush1708)
+- [Krishna Kaushik Kolluri](https://github.com/krishna-kaushik)
+- [SWAYAM BUKHARIA](https://github.com/swayambukharia)
+- [Eshwar Nukala](https://github.com/eshwar28)
+- [ARPIT KUMAR JAIN](https://github.com/arpitkekri)
+- [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
+- [Rohit Nandwani](https://github.com/nandwani-rohit)
+- [Arnav Mathur](https://github.com/arnav77)
+- [Kousik Rajesh](https://github.com/kousikr26)
+- [Bharath Thakkalapally](https://github.com/bharath2000)
+- [Abhinav Anand](https://github.com/abhinav28071999) 
+- [Shreyas S.K](https://github.com/shreyassks)
+- [Khagesh Kumar](https://github.com/vgskhagesh)
+- [Ahemad Khan](https://github.com/ahemadkhan)
+- [Suraj Raj](https://github.com/Suraj3579)
+- [Modabbir Tarique](https://github.com/modabbir24)
+- [Shubham Singh](https://github.com/shubhamdvl)
+- [Ashish Dukare](https://github.com/ashishdukare)
+- [Akshi Mittal](https://github.com/Akshi13)
+- [Mohan Kumar](https://github.com/mohan2106)
+
+
 
 
 # Phase 1 - 2018
@@ -97,3 +120,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aayush](https://github.com/aayushsynth)
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
+- [Kartikay Goel](https://github.com/krtky123)
