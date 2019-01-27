@@ -13,9 +13,9 @@ def costFunc(theta, X, y):
     global calls
     calls += 1
     """
-    theta -> row vector!!
+    theta -> row vector
     X --> standard form
-    y --> row vector!!
+    y --> row vector
     """
     theta = np.matrix(np.array(theta).ravel()).T
     y = np.matrix(np.array(y).ravel())
@@ -25,12 +25,6 @@ def costFunc(theta, X, y):
     term1 = np.log(h)
     term2 = np.log(1 - h)
     J = -np.sum(y * term1 + (1 - y) * term2) / m
-
-    print(
-        f"CostFunc Call {calls}\n"
-        + "=" * 10
-        + f"\ntheta = {theta.tolist()}\t J = {J}\n\n"
-    )
 
     return J
 
@@ -43,12 +37,6 @@ def gradCostFunc(theta, X, y):
     P = sigmoid(X * theta)
 
     grad = (X.T * (P - y)) / m
-
-    print(
-        f"gradCostFunc Call {calls}\n"
-        + "-" * 10
-        + f"\ntheta = {theta.tolist()}\t grad = {grad.tolist()}\n\n"
-    )
 
     return grad
 
