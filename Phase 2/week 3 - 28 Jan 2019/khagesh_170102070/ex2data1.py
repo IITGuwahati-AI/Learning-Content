@@ -105,7 +105,6 @@ if __name__=='__main__':
     print('-------------------------------------------------------------------');
     #input test case
     predict(xmax,xrng,theta)
-
     
     
     
