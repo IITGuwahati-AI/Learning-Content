@@ -56,6 +56,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [SWAYAM BUKHARIA](https://github.com/swayambukharia)
 - [Eshwar Nukala](https://github.com/eshwar28)
 - [ARPIT KUMAR JAIN](https://github.com/arpitkekri)
+- [Aditya Pratap Singh](https://github.com/adityaiitg)
 - [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
 - [Rohit Nandwani](https://github.com/nandwani-rohit)
 - [Arnav Mathur](https://github.com/arnav77)
@@ -71,6 +72,8 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Akshi Mittal](https://github.com/Akshi13)
 - [Mohan Kumar](https://github.com/mohan2106)
+
+
 
 
 
