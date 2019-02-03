@@ -105,7 +105,7 @@ def probability(theta,X_test,Y_test,degree):
             
         
 if __name__=='__main__':
-    data = np.loadtxt('../courseera/machine-learning-ex2/ex2/ex2data2.txt',delimiter=',');
+    data = np.loadtxt('ex2data2.txt',delimiter=',');
     degree=6
     X = reshape(data,degree);
     Y = data[:,2:3];
