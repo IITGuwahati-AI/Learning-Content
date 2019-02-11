@@ -3,6 +3,7 @@ import numpy as np
 from matplotlib import pyplot
 
 sys.path.append('..')
+
 from submission import SubmissionBase
 
 
@@ -36,7 +37,7 @@ def displayData(X, example_width=None, figsize=(10, 10)):
         ax.imshow(X[i].reshape(example_width, example_width, order='F'),
                   cmap='Greys', extent=[0, 1, 0, 1])
         ax.axis('off')
-
+ 
 
 def sigmoid(z):
     """
@@ -102,3 +103,4 @@ class Grader(SubmissionBase):
                 yield part_id, res
             except KeyError:
                 yield part_id, 0
+
