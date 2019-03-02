@@ -139,7 +139,7 @@ if __name__=='__main__':
     
     #grader[3] = sigmoidGradient
     #grader.grade()
-    
+   
     
     print('Initializing Neural Network Parameters ...')
 
