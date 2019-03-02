@@ -91,7 +91,7 @@ def image(X,figsize=(5,5)):
     pyplot.show()
 
 if __name__=='__main__':
-    data = loadmat(os.path.join('ex4', 'ex4data1.mat'))
+    data = loadmat(os.path.join('', 'ex4data1.mat'))
     X, y = data['X'], data['y'].ravel()
     y[y == 10] = 0
     m = y.size
@@ -107,7 +107,7 @@ if __name__=='__main__':
     num_labels = 10          # 10 labels, from 0 to 9
 
     # Load the weights into variables Theta1 and Theta2
-    weights = loadmat(os.path.join('ex4', 'ex4weights.mat'))
+    weights = loadmat(os.path.join('', 'ex4weights.mat'))
 
     # Theta1 has size 25 x 401
     # Theta2 has size 10 x 26
