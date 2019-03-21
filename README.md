@@ -71,6 +71,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Akshi Mittal](https://github.com/Akshi13)
 - [Mohan Kumar](https://github.com/mohan2106)
+- [ADITYA PRATAP SINGH](https://github.com/adityaiitg)
 
 
 
