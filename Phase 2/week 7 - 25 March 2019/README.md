@@ -2,7 +2,7 @@
 
 1. Complete All Video Lectures and Quizes of week8 of the [Coursera Course](https://www.coursera.org/learn/machine-learning).
 
-2. Complete the ipython notebook for both [exercise7](https://github.com/IITGuwahati-AI/Learning-Content/blob/master/Phase%202/week%206%20-%2019%20March%202019/Exercise7/exercise7.ipynb) provided(nothing is optional and the points for each part is mentioned in the notebook).
+2. Complete the ipython notebook for both [exercise7](https://github.com/IITGuwahati-AI/Learning-Content/blob/master/Phase%202/week%207%20-%2025%20March%202019/Exercise7/exercise7.ipynb) provided(nothing is optional and the points for each part is mentioned in the notebook).
 
 3. You can find a nice explanation of K-means Clustering [here](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1). This [video](https://youtu.be/4b5d3muPQmA) explains k-means in a layman term. 
 
