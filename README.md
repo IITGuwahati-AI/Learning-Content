@@ -31,17 +31,50 @@ This repository contains the resources that are discussed during the weekly meet
   | 7     | 10st March 2019  |ML Coursera Week 7                                 |16th March 2019  |
   | 8     | 17st March 2019  |ML Coursera Week 8                                 |23rd March 2019  |
   | 9     | 24th March 2019  |ML Coursera Week 9                                 |30th March 2019  |
-  | 10     | 31st March 2019  |ML Coursera Week 10                                |6th April 2019   |
+  | 10    | 31st March 2019  |ML Coursera Week 10                                |6th April 2019   |
   | 11    | 7th April 2019   |ML Coursera Week 11                                |13th April 2019  |
   | 12    | 14th April 2019  |Kaggle competition                                 |24th April 2019  |
   | 13    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
   
 ## Members
 
+
+- [Girija Prasanna](https://github.com/Demigo0000)
 - [Ayush Jain](https://github.com/AJ-54)
+- [Siddhartha Jain](https://github.com/siddhart18)
 - [Animesh Tiwari](https://github.com/animeshrdso)
 - [JATIN KODALI](https://github.com/JATIN42)
--[Suyash Baghel](https://github.com/suyashbaghel)
+- [Suyash Baghel](https://github.com/suyashbaghel)
+- [Abhilash Reddy](https://github.com/abhilashreddys)
+- [Touquir Ahmad](https://github.com/Touquir)
+- [Rahat Reza](https://github.com/Rahatrezaaa)
+- [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
+- [Mendu Sai Krishna](https://github.com/themendu)
+- [Adepu Vishalvardhan](https://github.com/vishal-vardhan)
+- [Sai Dhanush](https://github.com/dhanush1708)
+- [Krishna Kaushik Kolluri](https://github.com/krishna-kaushik)
+- [SWAYAM BUKHARIA](https://github.com/swayambukharia)
+- [Eshwar Nukala](https://github.com/eshwar28)
+- [ARPIT KUMAR JAIN](https://github.com/arpitkekri)
+- [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
+- [Rohit Nandwani](https://github.com/nandwani-rohit)
+- [Arnav Mathur](https://github.com/arnav77)
+- [Kousik Rajesh](https://github.com/kousikr26)
+- [Bharath Thakkalapally](https://github.com/bharath2000)
+- [Abhinav Anand](https://github.com/abhinav28071999) 
+- [Shreyas S.K](https://github.com/shreyassks)
+- [Khagesh Kumar](https://github.com/vgskhagesh)
+- [Ahemad Khan](https://github.com/ahemadkhan)
+- [Suraj Raj](https://github.com/Suraj3579)
+- [Modabbir Tarique](https://github.com/modabbir24)
+- [Shubham Singh](https://github.com/shubhamdvl)
+- [Ashish Dukare](https://github.com/ashishdukare)
+- [Akshi Mittal](https://github.com/Akshi13)
+- [Mohan Kumar](https://github.com/mohan2106)
+- [Gaddam Nikhil](https://github.com/Nikhi170104030)
+- [ADITYA PRATAP SINGH](https://github.com/adityaiitg)
+
+
 
 # Phase 1 - 2018
 
@@ -88,5 +121,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aayush](https://github.com/aayushsynth)
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
-
-
+- [Kartikay Goel](https://github.com/krtky123)
