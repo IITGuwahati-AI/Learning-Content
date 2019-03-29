@@ -1,0 +1,3 @@
+By observing all the figures, we deduce that the best boundary can be drawn to separate the two classes points if we classify them based on features 1 & 2.
+
+Also, using PCA we first check the contributions to total variance of each feature and then we pick the 2 features whose explained variance ratios are the 2 highest ones to classify the dataset.

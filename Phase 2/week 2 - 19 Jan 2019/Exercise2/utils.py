@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot
 
 sys.path.append('..')
-from submission import SubmissionBase
+#from submission import SubmissionBase
 
 
 def mapFeature(X1, X2, degree=6):
@@ -104,44 +104,3 @@ def plotDecisionBoundary(plotData, theta, X, y):
         pyplot.contour(u, v, z, levels=[0], linewidths=2, colors='g')
         pyplot.contourf(u, v, z, levels=[np.min(z), 0, np.max(z)], cmap='Greens', alpha=0.4)
 
-
-class Grader(SubmissionBase):
-    X = np.stack([np.ones(20),
-                  np.exp(1) * np.sin(np.arange(1, 21)),
-                  np.exp(0.5) * np.cos(np.arange(1, 21))], axis=1)
-
-    y = (np.sin(X[:, 0] + X[:, 1]) > 0).astype(float)
-
-    def __init__(self):
-        part_names = ['Sigmoid Function',
-                      'Logistic Regression Cost',
-                      'Logistic Regression Gradient',
-                      'Predict',
-                      'Regularized Logistic Regression Cost',
-                      'Regularized Logistic Regression Gradient']
-        super().__init__('logistic-regression', part_names)
-
-    def __iter__(self):
-        for part_id in range(1, 7):
-            try:
-                func = self.functions[part_id]
-
-                # Each part has different expected arguments/different function
-                if part_id == 1:
-                    res = func(self.X)
-                elif part_id == 2:
-                    res = func(np.array([0.25, 0.5, -0.5]), self.X, self.y)
-                elif part_id == 3:
-                    J, grad = func(np.array([0.25, 0.5, -0.5]), self.X, self.y)
-                    res = grad
-                elif part_id == 4:
-                    res = func(np.array([0.25, 0.5, -0.5]), self.X)
-                elif part_id == 5:
-                    res = func(np.array([0.25, 0.5, -0.5]), self.X, self.y, 0.1)
-                elif part_id == 6:
-                    res = func(np.array([0.25, 0.5, -0.5]), self.X, self.y, 0.1)[1]
-                else:
-                    raise KeyError
-                yield part_id, res
-            except KeyError:
-                yield part_id, 0
