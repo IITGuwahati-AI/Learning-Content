@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot
 
 sys.path.append('..')
-from submission import SubmissionBase
+#from submission import SubmissionBase
 
 
 def displayData(X, example_width=None, figsize=(10, 10)):
@@ -45,7 +45,7 @@ def sigmoid(z):
     return 1.0 / (1.0 + np.exp(-z))
 
 
-class Grader(SubmissionBase):
+"""class Grader(SubmissionBase):
     # Random Test Cases
     X = np.stack([np.ones(20),
                   np.exp(1) * np.sin(np.arange(1, 21)),
@@ -102,3 +102,4 @@ class Grader(SubmissionBase):
                 yield part_id, res
             except KeyError:
                 yield part_id, 0
+"""
