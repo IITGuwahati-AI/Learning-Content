@@ -73,9 +73,25 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mohan Kumar](https://github.com/mohan2106)
 - [Gaddam Nikhil](https://github.com/Nikhi170104030)
 - [ADITYA PRATAP SINGH](https://github.com/adityaiitg)
-r
 
 
+ ## Leader-Board
+ 
+  |Rank   |      Name        |Points(After week7)                                          
+  |-------|------------------|----------------------------------
+  | 1     | [Abhilash Reddy](https://github.com/abhilashreddys)    |680
+  | 2     | [Adepu Vishalvardhan](https://github.com/vishal-vardhan)    |680   
+  | 3     | [Khagesh Kumar](https://github.com/vgskhagesh)   |630               
+  | 4     | [Kousik Rajesh](https://github.com/kousikr26)    |630           
+  | 5     | [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)    |180             
+  | 6     | [Shreyas S.K](https://github.com/shreyassks)   |180          
+  | 7     | [Rahat Reza](https://github.com/Rahatrezaaa)  |130             
+  | 8     | [Suyash Baghel](https://github.com/suyashbaghel)  |130              
+  | 9     | [Girija Prasanna](https://github.com/Demigo0000) |80             
+  | 10    | [Bharath Thakkalapally](https://github.com/bharath2000) |30            
+  | 11    | [Touquir Ahmad](https://github.com/Touquir)   |30               
+  | 12    | [Rohit Nandwani](https://github.com/nandwani-rohit)  |30                
+  | 13    | [Mendu Sai Krishna](https://github.com/themendu)    |30   
 
 
 # Phase 1 - 2018
