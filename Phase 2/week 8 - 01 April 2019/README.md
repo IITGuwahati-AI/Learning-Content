@@ -6,7 +6,7 @@
 
 3. You can find a nice explanation of both the topics [here](https://towardsdatascience.com/machine-learning-basics-part-4-anomaly-detection-recommender-systems-and-scaling-b8bbf0413aa9). This [video](https://youtu.be/12Xq9OLdQwQ) by microsoft research on youtube might be helpful as well. 
 
-4. For more detailed explanation on anamoly detection you can have a look at [this](https://www.youtube.com/watch?v=nbNiD76yE8o&list=PL8Bgdi87Y1lWJtBDuStNuEGoXKVFmMrF3) playlist on youtube. 
+4. For more detailed explanation on anomaly detection you can have a look at [this](https://www.youtube.com/watch?v=nbNiD76yE8o&list=PL8Bgdi87Y1lWJtBDuStNuEGoXKVFmMrF3) playlist on youtube. 
 
 5. Add your python(if you are doing by your own) or jupyter notebook files and create pull request.
 
