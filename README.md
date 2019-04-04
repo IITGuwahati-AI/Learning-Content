@@ -28,7 +28,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 4     | 3rd Feb 2019     |ML Coursera Week 4                                 |9th Feb 2019     |
   | 5     | 3rd March 2019   |ML Coursera Week 5 and 6                           |19st March 2019  |
   | 6     | 19st March 2019  |ML Coursera Week 7                                 |25st March 2019  |
-  | 7     | 25st March 2019  |ML Coursera Week 8                                 |1th April 2019   |
+  | 7     | 25th March 2019  |ML Coursera Week 8                                 |1th April 2019   |
   | 8     | 1th April 2019   |ML Coursera Week 9                                 |7th April 2019   |
   | 9     | 7th April 2019   |ML Coursera Week 10 and 11                         |14th April 2019  |
   | 10    | 14th April 2019  |Session on Important ML Algorithms                 |14th April 2019  |
