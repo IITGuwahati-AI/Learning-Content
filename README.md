@@ -26,15 +26,14 @@ This repository contains the resources that are discussed during the weekly meet
   | 2     | 20th Jan 2019    |ML Coursera Week 1 and 2                           |26th Jan 2019    |
   | 3     | 28th jan 2019    |ML Coursera Week 3                                 |2nd feb 2019     |
   | 4     | 3rd Feb 2019     |ML Coursera Week 4                                 |9th Feb 2019     |
-  | 5     | 10th Feb 2019    |ML Coursera Week 4                                 |16th Feb 2019    |
-  | 6     | 1st March 2019   |ML Coursera Week 5 and 6                           |9th March 2019   |
-  | 7     | 10st March 2019  |ML Coursera Week 7                                 |16th March 2019  |
-  | 8     | 17st March 2019  |ML Coursera Week 8                                 |23rd March 2019  |
-  | 9     | 24th March 2019  |ML Coursera Week 9                                 |30th March 2019  |
-  | 10    | 31st March 2019  |ML Coursera Week 10                                |6th April 2019   |
-  | 11    | 7th April 2019   |ML Coursera Week 11                                |13th April 2019  |
-  | 12    | 14th April 2019  |Kaggle competition                                 |24th April 2019  |
-  | 13    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
+  | 5     | 3rd March 2019   |ML Coursera Week 5 and 6                           |19st March 2019  |
+  | 6     | 19st March 2019  |ML Coursera Week 7                                 |25st March 2019  |
+  | 7     | 25st March 2019  |ML Coursera Week 8                                 |1th April 2019   |
+  | 8     | 1th April 2019   |ML Coursera Week 9                                 |7th April 2019   |
+  | 9     | 7th April 2019   |ML Coursera Week 10 and 11                         |14th April 2019  |
+  | 10    | 14th April 2019  |Session on Important ML Algorithms                 |14th April 2019  |
+  | 11    | 15th April 2019  |Kaggle competition                                 |24th April 2019  |
+  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
   
 ## Members
 
