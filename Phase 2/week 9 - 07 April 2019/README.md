@@ -4,4 +4,4 @@
 
 2. There is no assignment for this week just complete the quizes and lectures to get your certificates.
 
-3. You can find a nice explanation of mini-batch gradient descent [here](https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/)
+3. You can find a nice explanation of mini-batch gradient descent [here](https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/).
