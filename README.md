@@ -72,8 +72,10 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mohan Kumar](https://github.com/mohan2106)
 - [Gaddam Nikhil](https://github.com/Nikhi170104030)
 - [ADITYA PRATAP SINGH](https://github.com/adityaiitg)
+- [V Anirudh](https://github.com/Anirudh-1149)
 - [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
+
 
 
  ## Leader-Board
