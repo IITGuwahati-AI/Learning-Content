@@ -1,0 +1,1 @@
+by observing figure_1.png ,we can conclude feature1 and feature2 classified two labels
