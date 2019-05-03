@@ -76,6 +76,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [V Anirudh](https://github.com/Anirudh-1149)
 - [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
+- [Naresh Bharasagar](https://github.com/bharasagarn)
 
 
 
