@@ -3,6 +3,7 @@
 This repository contains the resources that are discussed during the weekly meetings of IITG.ai - the study group in IIT Guwahati focused on **Machine learning** and **Artificial intelligence** - presently working to build a community of AI enthusiasts in IIT Guwahati. Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
 
 ## Important Links
+- [Applying for financial aid on Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
 - [CS229 by Stanford University](http://cs229.stanford.edu/)
 - [Siraj Raval's Webpage](http://www.sirajraval.com/)
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
