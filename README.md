@@ -78,6 +78,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
 - [YASHWANTH M](https://github.com/Yash0330)
+- [Jeet Patel](https://github.com/Jeet-Patel)
 
 
 
