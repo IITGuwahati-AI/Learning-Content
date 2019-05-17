@@ -1,0 +1,6 @@
+- Features 1 and 2 are able to classify the two labels perfectly.
+- The scatter plot F1vsF2 has label 1 and 2 data points separately and
+  distinctly available.
+- The data points for the two labels can be separated easily by a boundary
+  in the F1vsF2 plot.
+- So, according to me, features 1 & 2 must be the best features for classification.
