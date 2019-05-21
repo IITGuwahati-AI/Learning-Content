@@ -1,0 +1,7 @@
+As seen from the graph F1vsF2 the label 1 and 2 data points can be easily seperated by
+a line or curve or boundary.
+Also the scatter plot of the above has label 1 and 2 points seperately and it can be distinguished.
+Also by comparing all other graph nothing other than this was able to distinguish the labels.
+Hence, the features 1 and 2 was able to distinguish the labels correctly.
+
+
