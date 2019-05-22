@@ -3,5 +3,5 @@
 2. Should aquire two different region for two 
    different label.
    
-## So, from the images we got we can infer that
+## So, from the images we got, we can infer that
    Feature1 and Feature2 works best.
