@@ -28,4 +28,4 @@ for i in range(1, 10):
         plt.show()
         plt.savefig('feature'+str(i)+'vs'+str(j)+'.png')
 
-        #features 3 and 8 classify 2 labels perfectly`
+        #features 3 and 8 classify 2 labels perfectly because the graph coincides 
