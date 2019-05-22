@@ -87,7 +87,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Shalin Jain](https://github.com/ShalinJain1603)
 - [Kartikaeya Kumar](https://github.com/Kartikaeya)
 - [Smita Saxena](https://github.com/smitasaxenaa)
-
+- [Devanuj Baruah](https://github.com/platypusjerry)
 
  ## Leader-Board
  
