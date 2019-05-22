@@ -73,7 +73,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Gaddam Nikhil](https://github.com/Nikhi170104030)
 - [ADITYA PRATAP SINGH](https://github.com/adityaiitg)
 - [AMIT RAI](https://github.com/amitrai12018)
-
+- [Joseph spourgeon](https://github.com/Spourgeon2000)
  ## Leader-Board
  
   |Rank   |      Name        |Points(After week7)                                          
@@ -139,3 +139,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
 - [Kartikay Goel](https://github.com/krtky123)
+-
