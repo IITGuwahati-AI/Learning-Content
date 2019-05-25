@@ -35,7 +35,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 10    | 14th April 2019  |Session on Important ML Algorithms                 |14th April 2019  |
   | 11    | 15th April 2019  |Kaggle competition                                 |24th April 2019  |
   | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
-  
+
 ## Members
 
 
@@ -62,7 +62,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Arnav Mathur](https://github.com/arnav77)
 - [Kousik Rajesh](https://github.com/kousikr26)
 - [Bharath Thakkalapally](https://github.com/bharath2000)
-- [Abhinav Anand](https://github.com/abhinav28071999) 
+- [Abhinav Anand](https://github.com/abhinav28071999)
 - [Shreyas S.K](https://github.com/shreyassks)
 - [Khagesh Kumar](https://github.com/vgskhagesh)
 - [Ahemad Khan](https://github.com/ahemadkhan)
@@ -87,16 +87,16 @@ This repository contains the resources that are discussed during the weekly meet
 - [Shalin Jain](https://github.com/ShalinJain1603)
 - [Kartikaeya Kumar](https://github.com/Kartikaeya)
 - [Smita Saxena](https://github.com/smitasaxenaa)
-
+- [Parth Shah](https://github.com/parthatom)
 
  ## Leader-Board
- 
+
   |Rank   |      Name        |Points(After week7)                                          
   |-------|------------------|----------------------------------
   | 1     | [Abhilash Reddy](https://github.com/abhilashreddys)    |680
   | 2     | [Adepu Vishalvardhan](https://github.com/vishal-vardhan)    |680   
   | 3     | [Khagesh Kumar](https://github.com/vgskhagesh)   |630               
-  | 4     | [Kousik Rajesh](https://github.com/kousikr26)    |630 
+  | 4     | [Kousik Rajesh](https://github.com/kousikr26)    |630
   | 5     | [Bharath Thakkalapally](https://github.com/bharath2000) |630
   | 6     | [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)    |180             
   | 7     | [Shreyas S.K](https://github.com/shreyassks)   |180          
