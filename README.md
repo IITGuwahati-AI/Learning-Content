@@ -77,6 +77,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [V Anirudh](https://github.com/Anirudh-1149)
 - [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
+- [Joseph spourgeon](https://github.com/Spourgeon2000)
 - [HUMAM KHAN](https://github.com/humamkhan2k)
 - [Naresh Bharasagar](https://github.com/bharasagarn)
 - [vikyath](https://github.com/vikyath664)
@@ -89,7 +90,6 @@ This repository contains the resources that are discussed during the weekly meet
 - [Shalin Jain](https://github.com/ShalinJain1603)
 - [Kartikaeya Kumar](https://github.com/Kartikaeya)
 - [Smita Saxena](https://github.com/smitasaxenaa)
-
 
  ## Leader-Board
  
@@ -156,3 +156,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
 - [Kartikay Goel](https://github.com/krtky123)
+-
