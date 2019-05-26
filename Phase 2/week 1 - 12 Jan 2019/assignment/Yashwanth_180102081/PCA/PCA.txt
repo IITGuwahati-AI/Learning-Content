@@ -1,0 +1,7 @@
+By tranforming the given data in to a lower dimensional space and scaling it.
+And applying pca we find that the maximum variance ratio is for feature1 and the second maximum 
+is feature 2
+The output(variance ratio) is: [0.23726612 0.17676103 0.15981101 0.09621538 0.09111189 0.08667718
+ 0.07268585 0.04182227 0.01873639 0.01269897]
+So, the best features by applying pca is feature 1 and 2 which is same as observed.
+
