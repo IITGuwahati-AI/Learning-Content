@@ -3,6 +3,7 @@
 This repository contains the resources that are discussed during the weekly meetings of IITG.ai - the study group in IIT Guwahati focused on **Machine learning** and **Artificial intelligence** - presently working to build a community of AI enthusiasts in IIT Guwahati. Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
 
 ## Important Links
+- [Applying for financial aid on Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
 - [CS229 by Stanford University](http://cs229.stanford.edu/)
 - [Siraj Raval's Webpage](http://www.sirajraval.com/)
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
@@ -49,6 +50,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Rahat Reza](https://github.com/Rahatrezaaa)
 - [Ashutosh Kumar Mandal](https://github.com/ashutosh-iitg)
 - [Mendu Sai Krishna](https://github.com/themendu)
+- [Gaurav Agarwal](https://github.com/gaurav7019)
 - [Adepu Vishalvardhan](https://github.com/vishal-vardhan)
 - [Sai Dhanush](https://github.com/dhanush1708)
 - [Krishna Kaushik Kolluri](https://github.com/krishna-kaushik)
@@ -72,8 +74,23 @@ This repository contains the resources that are discussed during the weekly meet
 - [Mohan Kumar](https://github.com/mohan2106)
 - [Gaddam Nikhil](https://github.com/Nikhi170104030)
 - [ADITYA PRATAP SINGH](https://github.com/adityaiitg)
+- [V Anirudh](https://github.com/Anirudh-1149)
+- [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
 - [Joseph spourgeon](https://github.com/Spourgeon2000)
+- [HUMAM KHAN](https://github.com/humamkhan2k)
+- [Naresh Bharasagar](https://github.com/bharasagarn)
+- [vikyath](https://github.com/vikyath664)
+- [YASHWANTH M](https://github.com/Yash0330)
+- [Jeet Patel](https://github.com/Jeet-Patel)
+- [Kartikay Goel](https://github.com/krtky123)
+- [sanskar7447](https://github.com/sanskar7447)
+- [Nishu Ranjan](https://github.com/nishuranjan95)
+- [Aarya Shrivastava](https://github.com/aaryapavan)
+- [Shalin Jain](https://github.com/ShalinJain1603)
+- [Kartikaeya Kumar](https://github.com/Kartikaeya)
+- [Smita Saxena](https://github.com/smitasaxenaa)
+
  ## Leader-Board
  
   |Rank   |      Name        |Points(After week7)                                          
