@@ -83,6 +83,12 @@ This repository contains the resources that are discussed during the weekly meet
 - [YASHWANTH M](https://github.com/Yash0330)
 - [Jeet Patel](https://github.com/Jeet-Patel)
 - [Kartikay Goel](https://github.com/krtky123)
+- [sanskar7447](https://github.com/sanskar7447)
+- [Nishu Ranjan](https://github.com/nishuranjan95)
+- [Aarya Shrivastava](https://github.com/aaryapavan)
+- [Shalin Jain](https://github.com/ShalinJain1603)
+- [Kartikaeya Kumar](https://github.com/Kartikaeya)
+- [Smita Saxena](https://github.com/smitasaxenaa)
 
 
  ## Leader-Board
