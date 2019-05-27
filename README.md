@@ -104,7 +104,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 7     | [Shreyas S.K](https://github.com/shreyassks)   |180          
   | 8     | [Rahat Reza](https://github.com/Rahatrezaaa)  |130             
   | 9     | [Suyash Baghel](https://github.com/suyashbaghel)  |130              
-  | 10     | [Girija Prasanna](https://github.com/Demigo0000) |80             
+  | 10    | [Girija Prasanna](https://github.com/Demigo0000) |80             
   | 11    | [Touquir Ahmad](https://github.com/Touquir)   |30               
   | 12    | [Rohit Nandwani](https://github.com/nandwani-rohit)  |30                
   | 13    | [Mendu Sai Krishna](https://github.com/themendu)    |30   
