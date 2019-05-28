@@ -8,7 +8,7 @@
 
 3. Find the **two features** which can classify the **two labels** perfectly.
 
-4. *Optional* (with *bonus* points, see below): Use scikit-learn to apply [Principal Component Analysis(PCA)](http://files.isec.pt/DOCUMENTOS/SERVICOS/BIBLIO/Documentos%20de%20acesso%20remoto/Principal%20components%20analysis.pdf), find the best two features and check if they are the same as the ones you observed. 
+4. *Optional* (with *bonus* points, see below): Use scikit-learn to apply [Principal Component Analysis(PCA) (Theory)](http://www.cs.tau.ac.il/~rshamir/abdbm/pres/17/PCA.pdf), [(Reference Code)](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60) find the best two features and check if they are the same as the ones you observed. 
 
 # Point System
 

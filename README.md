@@ -77,11 +77,14 @@ This repository contains the resources that are discussed during the weekly meet
 - [V Anirudh](https://github.com/Anirudh-1149)
 - [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
+- [Joseph spourgeon](https://github.com/Spourgeon2000)
 - [HUMAM KHAN](https://github.com/humamkhan2k)
 - [Naresh Bharasagar](https://github.com/bharasagarn)
 - [vikyath](https://github.com/vikyath664)
 - [YASHWANTH M](https://github.com/Yash0330)
 - [Jeet Patel](https://github.com/Jeet-Patel)
+- [Kartikay Goel](https://github.com/krtky123)
+- [sanskar7447](https://github.com/sanskar7447)
 - [Nishu Ranjan](https://github.com/nishuranjan95)
 - [Aarya Shrivastava](https://github.com/aaryapavan)
 - [Shalin Jain](https://github.com/ShalinJain1603)
@@ -102,7 +105,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 7     | [Shreyas S.K](https://github.com/shreyassks)   |180          
   | 8     | [Rahat Reza](https://github.com/Rahatrezaaa)  |130             
   | 9     | [Suyash Baghel](https://github.com/suyashbaghel)  |130              
-  | 10     | [Girija Prasanna](https://github.com/Demigo0000) |80             
+  | 10    | [Girija Prasanna](https://github.com/Demigo0000) |80             
   | 11    | [Touquir Ahmad](https://github.com/Touquir)   |30               
   | 12    | [Rohit Nandwani](https://github.com/nandwani-rohit)  |30                
   | 13    | [Mendu Sai Krishna](https://github.com/themendu)    |30   
@@ -154,3 +157,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
 - [Kartikay Goel](https://github.com/krtky123)
+-
