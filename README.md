@@ -112,6 +112,25 @@ This repository contains the resources that are discussed during the weekly meet
   | 13    | [Mendu Sai Krishna](https://github.com/themendu)    |30   
 
 
+ ## Leader-Board 2 (Summer)
+ 
+  |Rank   |      Name        |Points(After week1)                                          
+  |-------|------------------|----------------------------------
+  | 1     | [Yash](https://github.com/Yash0330)    |80
+  | 2     | [Kartikaeya Kumar](https://github.com/Kartikaeya)    |30   
+  | 3     | [Rahul D](https://github.com/chindimaga)   |30               
+  | 4     | [Sanskar Kumar](https://github.com/sanskar7447)    |30 
+  | 5     | [AMIT RAI](https://github.com/amitrai12018) |30
+  | 6     | [Shubham Singh](https://github.com/shubhamdvl)    |30             
+  | 7     | [Sai Dhanush](https://github.com/dhanush1708)   |30          
+  | 8     | [Eshwar Nukala](https://github.com/eshwar28)  |30             
+  | 9     | [Parth](https://github.com/parthatom)  |30              
+  | 10    | [Tarunasaireddy](https://github.com/Tarunasaireddy) |30             
+  | 11    | [Manoj](https://github.com/manojpaidimarri21)   |30               
+  | 12    | [Abhishek](https://github.com/abhishekk2)  |30                
+     
+
+
 # Phase 1 - 2018
 
 ## Timeline
