@@ -77,17 +77,21 @@ This repository contains the resources that are discussed during the weekly meet
 - [V Anirudh](https://github.com/Anirudh-1149)
 - [Aniket Vinchurkar](https://github.com/aniketvinchurkar17)
 - [AMIT RAI](https://github.com/amitrai12018)
+- [Joseph spourgeon](https://github.com/Spourgeon2000)
 - [HUMAM KHAN](https://github.com/humamkhan2k)
 - [Naresh Bharasagar](https://github.com/bharasagarn)
 - [vikyath](https://github.com/vikyath664)
 - [YASHWANTH M](https://github.com/Yash0330)
 - [Jeet Patel](https://github.com/Jeet-Patel)
+- [Kartikay Goel](https://github.com/krtky123)
+- [sanskar7447](https://github.com/sanskar7447)
 - [Nishu Ranjan](https://github.com/nishuranjan95)
 - [Aarya Shrivastava](https://github.com/aaryapavan)
 - [Shalin Jain](https://github.com/ShalinJain1603)
 - [Kartikaeya Kumar](https://github.com/Kartikaeya)
 - [Smita Saxena](https://github.com/smitasaxenaa)
-
+- [Sanskar Kumar](https://github.com/sanskar7447)
+- [Rahul D](https://github.com/chindimaga)
 
  ## Leader-Board
  
@@ -102,10 +106,29 @@ This repository contains the resources that are discussed during the weekly meet
   | 7     | [Shreyas S.K](https://github.com/shreyassks)   |180          
   | 8     | [Rahat Reza](https://github.com/Rahatrezaaa)  |130             
   | 9     | [Suyash Baghel](https://github.com/suyashbaghel)  |130              
-  | 10     | [Girija Prasanna](https://github.com/Demigo0000) |80             
+  | 10    | [Girija Prasanna](https://github.com/Demigo0000) |80             
   | 11    | [Touquir Ahmad](https://github.com/Touquir)   |30               
   | 12    | [Rohit Nandwani](https://github.com/nandwani-rohit)  |30                
   | 13    | [Mendu Sai Krishna](https://github.com/themendu)    |30   
+
+
+ ## Leader-Board 2 (Summer)
+ 
+  |Rank   |      Name        |Points(After week1)                                          
+  |-------|------------------|----------------------------------
+  | 1     | [Yash](https://github.com/Yash0330)    |80
+  | 2     | [Kartikaeya Kumar](https://github.com/Kartikaeya)    |30   
+  | 3     | [Rahul D](https://github.com/chindimaga)   |30               
+  | 4     | [Sanskar Kumar](https://github.com/sanskar7447)    |30 
+  | 5     | [AMIT RAI](https://github.com/amitrai12018) |30
+  | 6     | [Shubham Singh](https://github.com/shubhamdvl)    |30             
+  | 7     | [Sai Dhanush](https://github.com/dhanush1708)   |30          
+  | 8     | [Eshwar Nukala](https://github.com/eshwar28)  |30             
+  | 9     | [Parth](https://github.com/parthatom)  |30              
+  | 10    | [Tarunasaireddy](https://github.com/Tarunasaireddy) |30             
+  | 11    | [Manoj](https://github.com/manojpaidimarri21)   |30               
+  | 12    | [Abhishek](https://github.com/abhishekk2)  |30                
+     
 
 
 # Phase 1 - 2018
@@ -154,3 +177,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
 - [Kartikay Goel](https://github.com/krtky123)
+-
