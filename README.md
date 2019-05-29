@@ -117,19 +117,22 @@ This repository contains the resources that are discussed during the weekly meet
   |Rank   |      Name        |Points(After week1)                                          
   |-------|------------------|----------------------------------
   | 1     | [Yash](https://github.com/Yash0330)    |80
-  | 2     | [Kartikaeya Kumar](https://github.com/Kartikaeya)    |30   
-  | 3     | [Rahul D](https://github.com/chindimaga)   |30               
-  | 4     | [Sanskar Kumar](https://github.com/sanskar7447)    |30 
-  | 5     | [AMIT RAI](https://github.com/amitrai12018) |30
-  | 6     | [Shubham Singh](https://github.com/shubhamdvl)    |30             
-  | 7     | [Sai Dhanush](https://github.com/dhanush1708)   |30          
-  | 8     | [Eshwar Nukala](https://github.com/eshwar28)  |30             
-  | 9     | [Parth](https://github.com/parthatom)  |30              
-  | 10    | [Tarunasaireddy](https://github.com/Tarunasaireddy) |30             
-  | 11    | [Manoj](https://github.com/manojpaidimarri21)   |30               
-  | 12    | [Abhishek](https://github.com/abhishekk2)  |30                
-     
-
+  | 2     | [Ahemad Khan](https://github.com/ahemadkhan)  |80
+  | 3     | [Kartikaeya Kumar](https://github.com/Kartikaeya)    |30   
+  | 4     | [Rahul D](https://github.com/chindimaga)   |30               
+  | 5     | [Sanskar Kumar](https://github.com/sanskar7447)    |30 
+  | 6     | [AMIT RAI](https://github.com/amitrai12018) |30
+  | 7     | [Shubham Singh](https://github.com/shubhamdvl)    |30             
+  | 8     | [Sai Dhanush](https://github.com/dhanush1708)   |30          
+  | 9     | [Eshwar Nukala](https://github.com/eshwar28)  |30             
+  | 10    | [Parth](https://github.com/parthatom)  |30              
+  | 11    | [Tarunasaireddy](https://github.com/Tarunasaireddy) |30             
+  | 12    | [Manoj](https://github.com/manojpaidimarri21)   |30               
+  | 13    | [Abhishek](https://github.com/abhishekk2)  |30                
+  | 14    | [Naresh Bharasagar](https://github.com/bharasagarn)  |30  
+  | 15    | [vikyath](https://github.com/vikyath664)  |30
+  | 16    | [Anirudh](https://github.com/Anirudh-1149)  |15
+  
 
 # Phase 1 - 2018
 
