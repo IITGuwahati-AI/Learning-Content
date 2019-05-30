@@ -1,0 +1,2 @@
+>>feature 1 and feature 2 are the two features which can classify two labels
+>>because plot of feature 1 vs feature 2 shows that the two will never merge   
