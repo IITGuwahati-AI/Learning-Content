@@ -1,17 +1,23 @@
-import numpy as np
-from matplotlib import pyplot as plt
-from sklearn.decomposition import PCA
+import numpy as np 
+from matplotlib import pyplot as plt 
+data = np.loadtxt('data.txt',skiprows = 1)
+l1=np.array(data[np.nonzero(data[:,0]==1.0)])
+l2=np.array(data[np.nonzero(data[:,0]==2.0)])
 
-#def split(arr, cond):
-    #return [arr[cond], arr[~cond]]
-matrix=np.loadtxt("data.txt", skiprows=1)
-matrix2=np.array(matrix[:,1:])
-pca=PCA(2)
-pca.fit(matrix2)
-#print(pca.components_)
-#print(pca.explained_variance_)
-B = pca.transform(matrix2)
-print(B.shape)
-plt.scatter(B[:,0],B[:,1])   
-l1=np.array(matrix[np.nonzero(matrix[:,0]==1.0)])
-l2=matrix[np.nonzero(matrix[:,0]==2.0)] 
+for i in range(1,11):
+
+    for j in range(i+1,11):
+        print(i,j)
+        
+        plt.scatter(l1[:,i],l1[:,j],c='r',s=1)
+    
+        plt.scatter(l2[:,i],l2[:,j],c='b',s=1)
+    
+       
+        plt.xlabel("feature "+str(i))
+        plt.ylabel("feature "+str(j))
+       
+        plt.title("feature plot "+str(j)+" vs "+str(i))
+        plt.savefig('./plots/'+"plot"+str(i) + '-' + str(j))
+
+        plt.show()
