@@ -92,6 +92,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Smita Saxena](https://github.com/smitasaxenaa)
 - [Sanskar Kumar](https://github.com/sanskar7447)
 - [Rahul D](https://github.com/chindimaga)
+- [Sudesh Chaudhary](https://github.com/sudesh1122)
 
  ## Leader-Board
  
@@ -180,4 +181,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
 - [Kartikay Goel](https://github.com/krtky123)
--
+- [Sudesh Chaudhary](https://github.com/sudesh1122)
