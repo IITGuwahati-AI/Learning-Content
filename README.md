@@ -4,6 +4,7 @@ This repository contains the resources that are discussed during the weekly meet
 
 ## Important Links
 - [Applying for financial aid on Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
+- [Some of the great resources for learning statistics and machine learning](https://sgfin.github.io/learning-resources/)
 - [CS229 by Stanford University](http://cs229.stanford.edu/)
 - [Siraj Raval's Webpage](http://www.sirajraval.com/)
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
