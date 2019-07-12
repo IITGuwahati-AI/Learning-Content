@@ -40,7 +40,9 @@ This repository contains the resources that are discussed during the weekly meet
 ## Members
 
 
+
 - [Girija Prasanna](https://github.com/Demigo0000)
+- [Mukul Ranjan](https://github.com/mukul54)
 - [Ayush Jain](https://github.com/AJ-54)
 - [Siddhartha Jain](https://github.com/siddhart18)
 - [Animesh Tiwari](https://github.com/animeshrdso)
