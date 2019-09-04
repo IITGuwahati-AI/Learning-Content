@@ -1,0 +1,302 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Welcome To Colaboratory",
+      "version": "0.3.2",
+      "provenance": [],
+      "collapsed_sections": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/shreyassks/Learning-Content/blob/master/Customer_clustering\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "T0RPWwL4f1Er",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 238
+        },
+        "outputId": "dc749d36-ef4c-4b25-cce1-b56caf2a5567"
+      },
+      "source": [
+        "import pandas as pd\n",
+        "import numpy as np\n",
+        "\n",
+        "df = pd.read_csv(\"data.csv\", encoding = \"ISO-8859-1\")\n",
+        "df.info()"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "<class 'pandas.core.frame.DataFrame'>\n",
+            "RangeIndex: 541909 entries, 0 to 541908\n",
+            "Data columns (total 8 columns):\n",
+            "InvoiceNo      541909 non-null object\n",
+            "StockCode      541909 non-null object\n",
+            "Description    540455 non-null object\n",
+            "Quantity       541909 non-null int64\n",
+            "InvoiceDate    541909 non-null object\n",
+            "UnitPrice      541909 non-null float64\n",
+            "CustomerID     406829 non-null float64\n",
+            "Country        541909 non-null object\n",
+            "dtypes: float64(2), int64(1), object(5)\n",
+            "memory usage: 33.1+ MB\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "NMlHgtlkgUVL",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 204
+        },
+        "outputId": "81266546-801d-49db-a66d-a35418ed9c13"
+      },
+      "source": [
+        "df.head(5)"
+      ],
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/html": [
+              "<div>\n",
+              "<style scoped>\n",
+              "    .dataframe tbody tr th:only-of-type {\n",
+              "        vertical-align: middle;\n",
+              "    }\n",
+              "\n",
+              "    .dataframe tbody tr th {\n",
+              "        vertical-align: top;\n",
+              "    }\n",
+              "\n",
+              "    .dataframe thead th {\n",
+              "        text-align: right;\n",
+              "    }\n",
+              "</style>\n",
+              "<table border=\"1\" class=\"dataframe\">\n",
+              "  <thead>\n",
+              "    <tr style=\"text-align: right;\">\n",
+              "      <th></th>\n",
+              "      <th>InvoiceNo</th>\n",
+              "      <th>StockCode</th>\n",
+              "      <th>Description</th>\n",
+              "      <th>Quantity</th>\n",
+              "      <th>InvoiceDate</th>\n",
+              "      <th>UnitPrice</th>\n",
+              "      <th>CustomerID</th>\n",
+              "      <th>Country</th>\n",
+              "    </tr>\n",
+              "  </thead>\n",
+              "  <tbody>\n",
+              "    <tr>\n",
+              "      <th>0</th>\n",
+              "      <td>536365</td>\n",
+              "      <td>85123A</td>\n",
+              "      <td>WHITE HANGING HEART T-LIGHT HOLDER</td>\n",
+              "      <td>6</td>\n",
+              "      <td>12/1/2010 8:26</td>\n",
+              "      <td>2.55</td>\n",
+              "      <td>17850.0</td>\n",
+              "      <td>United Kingdom</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>1</th>\n",
+              "      <td>536365</td>\n",
+              "      <td>71053</td>\n",
+              "      <td>WHITE METAL LANTERN</td>\n",
+              "      <td>6</td>\n",
+              "      <td>12/1/2010 8:26</td>\n",
+              "      <td>3.39</td>\n",
+              "      <td>17850.0</td>\n",
+              "      <td>United Kingdom</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>2</th>\n",
+              "      <td>536365</td>\n",
+              "      <td>84406B</td>\n",
+              "      <td>CREAM CUPID HEARTS COAT HANGER</td>\n",
+              "      <td>8</td>\n",
+              "      <td>12/1/2010 8:26</td>\n",
+              "      <td>2.75</td>\n",
+              "      <td>17850.0</td>\n",
+              "      <td>United Kingdom</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>3</th>\n",
+              "      <td>536365</td>\n",
+              "      <td>84029G</td>\n",
+              "      <td>KNITTED UNION FLAG HOT WATER BOTTLE</td>\n",
+              "      <td>6</td>\n",
+              "      <td>12/1/2010 8:26</td>\n",
+              "      <td>3.39</td>\n",
+              "      <td>17850.0</td>\n",
+              "      <td>United Kingdom</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>4</th>\n",
+              "      <td>536365</td>\n",
+              "      <td>84029E</td>\n",
+              "      <td>RED WOOLLY HOTTIE WHITE HEART.</td>\n",
+              "      <td>6</td>\n",
+              "      <td>12/1/2010 8:26</td>\n",
+              "      <td>3.39</td>\n",
+              "      <td>17850.0</td>\n",
+              "      <td>United Kingdom</td>\n",
+              "    </tr>\n",
+              "  </tbody>\n",
+              "</table>\n",
+              "</div>"
+            ],
+            "text/plain": [
+              "  InvoiceNo StockCode  ... CustomerID         Country\n",
+              "0    536365    85123A  ...    17850.0  United Kingdom\n",
+              "1    536365     71053  ...    17850.0  United Kingdom\n",
+              "2    536365    84406B  ...    17850.0  United Kingdom\n",
+              "3    536365    84029G  ...    17850.0  United Kingdom\n",
+              "4    536365    84029E  ...    17850.0  United Kingdom\n",
+              "\n",
+              "[5 rows x 8 columns]"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 2
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "bdCcMd0ZgYXa",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 170
+        },
+        "outputId": "893e8acf-e8d7-4181-e487-0caa451981e0"
+      },
+      "source": [
+        "df.dtypes"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "InvoiceNo       object\n",
+              "StockCode       object\n",
+              "Description     object\n",
+              "Quantity         int64\n",
+              "InvoiceDate     object\n",
+              "UnitPrice      float64\n",
+              "CustomerID     float64\n",
+              "Country         object\n",
+              "dtype: object"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 3
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "S9mWQljFge0A",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 170
+        },
+        "outputId": "2953a2e5-d531-4ff5-ecb3-17966c91f06e"
+      },
+      "source": [
+        "df.isna().sum()"
+      ],
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "InvoiceNo           0\n",
+              "StockCode           0\n",
+              "Description      1454\n",
+              "Quantity            0\n",
+              "InvoiceDate         0\n",
+              "UnitPrice           0\n",
+              "CustomerID     135080\n",
+              "Country             0\n",
+              "dtype: int64"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 4
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "lI78KxINgsmf",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        },
+        "outputId": "1a388a83-df0d-4d59-9d40-5e6de9e92e1d"
+      },
+      "source": [
+        "df.shape"
+      ],
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "(541909, 8)"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 5
+        }
+      ]
+    }
+  ]
+}
