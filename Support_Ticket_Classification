@@ -1,0 +1,278 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Welcome To Colaboratory",
+      "version": "0.3.2",
+      "provenance": [],
+      "collapsed_sections": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/shreyassks/Learning-Content/blob/master/Support_Ticket_Classification\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "CZdl2ToKnqv1",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "import pandas as pd\n",
+        "import numpy as np\n",
+        "import matplotlib.pyplot as plt\n",
+        "import seaborn as sns\n",
+        "import pandas_profiling\n",
+        "\n",
+        "df = pd.ExcelFile('/content/EIP_TICKETS_ASM_RETAIL.xlsx')\n",
+        "EIP_tickets = pd.read_excel(df,'EIP_TICKETS_ASM_RETAIL')"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "0Wqm7c-6qAon",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 323
+        },
+        "outputId": "4c2d5d65-139d-4efc-e2e7-08df46715626"
+      },
+      "source": [
+        "EIP_tickets.dtypes"
+      ],
+      "execution_count": 14,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "1_TT_ID                           int64\n",
+              "2_TT_DESCRIPTION                 object\n",
+              "ASSIGNED_GROUP                   object\n",
+              "ASSIGNED_GROUP_E_MAIL           float64\n",
+              "ASSIGNED_TO                      object\n",
+              "ASSIGNED_TO_LOGIN                object\n",
+              "Application Retail               object\n",
+              "CALL_TYPE_DESC                   object\n",
+              "CLOSED_ON_PST            datetime64[ns]\n",
+              "Create Date Pst          datetime64[ns]\n",
+              "Month                            object\n",
+              "Year                              int64\n",
+              "SLA Calc                         object\n",
+              "Priority Calc                    object\n",
+              "SIMPLE_STATUS_DESC               object\n",
+              "SLA                               int64\n",
+              "TIME_TO_CLOSE__HRS__            float64\n",
+              "dtype: object"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 14
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "aSubJO9ZqJkX",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 323
+        },
+        "outputId": "b1364fa5-f700-422f-a5c3-013c52454d69"
+      },
+      "source": [
+        "EIP_tickets.isna().sum()"
+      ],
+      "execution_count": 15,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "1_TT_ID                     0\n",
+              "2_TT_DESCRIPTION            1\n",
+              "ASSIGNED_GROUP              0\n",
+              "ASSIGNED_GROUP_E_MAIL    5031\n",
+              "ASSIGNED_TO                 0\n",
+              "ASSIGNED_TO_LOGIN           0\n",
+              "Application Retail          0\n",
+              "CALL_TYPE_DESC             92\n",
+              "CLOSED_ON_PST               1\n",
+              "Create Date Pst             0\n",
+              "Month                       0\n",
+              "Year                        0\n",
+              "SLA Calc                    0\n",
+              "Priority Calc               0\n",
+              "SIMPLE_STATUS_DESC          0\n",
+              "SLA                         0\n",
+              "TIME_TO_CLOSE__HRS__        1\n",
+              "dtype: int64"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 15
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "ABDgWvw5ozFL",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 297
+        },
+        "outputId": "a72276b3-64bc-4a95-c19a-7cd8a9294020"
+      },
+      "source": [
+        "EIP_tickets.describe()"
+      ],
+      "execution_count": 13,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/html": [
+              "<div>\n",
+              "<style scoped>\n",
+              "    .dataframe tbody tr th:only-of-type {\n",
+              "        vertical-align: middle;\n",
+              "    }\n",
+              "\n",
+              "    .dataframe tbody tr th {\n",
+              "        vertical-align: top;\n",
+              "    }\n",
+              "\n",
+              "    .dataframe thead th {\n",
+              "        text-align: right;\n",
+              "    }\n",
+              "</style>\n",
+              "<table border=\"1\" class=\"dataframe\">\n",
+              "  <thead>\n",
+              "    <tr style=\"text-align: right;\">\n",
+              "      <th></th>\n",
+              "      <th>1_TT_ID</th>\n",
+              "      <th>ASSIGNED_GROUP_E_MAIL</th>\n",
+              "      <th>Year</th>\n",
+              "      <th>SLA</th>\n",
+              "      <th>TIME_TO_CLOSE__HRS__</th>\n",
+              "    </tr>\n",
+              "  </thead>\n",
+              "  <tbody>\n",
+              "    <tr>\n",
+              "      <th>count</th>\n",
+              "      <td>5.031000e+03</td>\n",
+              "      <td>0.0</td>\n",
+              "      <td>5031.000000</td>\n",
+              "      <td>5031.000000</td>\n",
+              "      <td>5030.000000</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>mean</th>\n",
+              "      <td>2.139858e+07</td>\n",
+              "      <td>NaN</td>\n",
+              "      <td>2018.340091</td>\n",
+              "      <td>9877.662493</td>\n",
+              "      <td>404.492048</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>std</th>\n",
+              "      <td>1.473328e+06</td>\n",
+              "      <td>NaN</td>\n",
+              "      <td>0.473787</td>\n",
+              "      <td>1064.454621</td>\n",
+              "      <td>790.758785</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>min</th>\n",
+              "      <td>1.928410e+07</td>\n",
+              "      <td>NaN</td>\n",
+              "      <td>2018.000000</td>\n",
+              "      <td>120.000000</td>\n",
+              "      <td>0.000000</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>25%</th>\n",
+              "      <td>2.006670e+07</td>\n",
+              "      <td>NaN</td>\n",
+              "      <td>2018.000000</td>\n",
+              "      <td>10080.000000</td>\n",
+              "      <td>34.000000</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>50%</th>\n",
+              "      <td>2.121078e+07</td>\n",
+              "      <td>NaN</td>\n",
+              "      <td>2018.000000</td>\n",
+              "      <td>10080.000000</td>\n",
+              "      <td>130.000000</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>75%</th>\n",
+              "      <td>2.259835e+07</td>\n",
+              "      <td>NaN</td>\n",
+              "      <td>2019.000000</td>\n",
+              "      <td>10080.000000</td>\n",
+              "      <td>348.000000</td>\n",
+              "    </tr>\n",
+              "    <tr>\n",
+              "      <th>max</th>\n",
+              "      <td>2.486046e+07</td>\n",
+              "      <td>NaN</td>\n",
+              "      <td>2019.000000</td>\n",
+              "      <td>10080.000000</td>\n",
+              "      <td>8103.000000</td>\n",
+              "    </tr>\n",
+              "  </tbody>\n",
+              "</table>\n",
+              "</div>"
+            ],
+            "text/plain": [
+              "            1_TT_ID  ASSIGNED_GROUP_E_MAIL  ...           SLA  TIME_TO_CLOSE__HRS__\n",
+              "count  5.031000e+03                    0.0  ...   5031.000000           5030.000000\n",
+              "mean   2.139858e+07                    NaN  ...   9877.662493            404.492048\n",
+              "std    1.473328e+06                    NaN  ...   1064.454621            790.758785\n",
+              "min    1.928410e+07                    NaN  ...    120.000000              0.000000\n",
+              "25%    2.006670e+07                    NaN  ...  10080.000000             34.000000\n",
+              "50%    2.121078e+07                    NaN  ...  10080.000000            130.000000\n",
+              "75%    2.259835e+07                    NaN  ...  10080.000000            348.000000\n",
+              "max    2.486046e+07                    NaN  ...  10080.000000           8103.000000\n",
+              "\n",
+              "[8 rows x 5 columns]"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 13
+        }
+      ]
+    }
+  ]
+}
