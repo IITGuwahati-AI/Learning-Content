@@ -95,7 +95,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Sanskar Kumar](https://github.com/sanskar7447)
 - [Anand](https://github.com/anand-trehan)
 - [Rahul D](https://github.com/chindimaga)
-
+- [Tanu](https://github.com/Tanu911)
  ## Leader-Board
  
   |Rank   |      Name        |Points(After week7)                                          
