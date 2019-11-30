@@ -18,7 +18,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
- #Phase 3 - 2019(December)
+ ## Phase 3 - 2019(December)
  
  ## Timeline
  
@@ -53,7 +53,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 9     | 7th April 2019   |ML Coursera Week 10 and 11                         |14th April 2019  |
   | 10    | 14th April 2019  |Session on Important ML Algorithms                 |14th April 2019  |
   | 11    | 15th April 2019  |Kaggle competition                                 |24th April 2019  |
-  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
+  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |                 |
   
 ## Members
 
