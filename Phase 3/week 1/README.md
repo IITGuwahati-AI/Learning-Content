@@ -1,4 +1,4 @@
-# To-Do before next meeting:
+# Tasks for week 1:
 1. Create [Github](https://github.com)
 2. Create a pull request to add yourself in the member list of phase 3-2019.
 3. Install [Anaconda](https://www.anaconda.com/download/)
