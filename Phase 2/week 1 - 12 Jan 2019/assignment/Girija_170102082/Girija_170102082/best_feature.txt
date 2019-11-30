@@ -1,2 +1,0 @@
-Te best feature, or the most important one is the list in column 1 , as that has the max height in the Scree Plot.
-The Scree Plot and PCA Graph are attached.
