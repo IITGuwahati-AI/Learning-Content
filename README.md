@@ -36,6 +36,7 @@ This repository contains the resources that are discussed during the weekly meet
   
  ## Members
 
+- [Tejasa Chalamarla](https://github.com/tejasach)
 - [Name](Github Url)
 
 # Phase 2 - 2019
