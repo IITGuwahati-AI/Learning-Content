@@ -35,7 +35,7 @@ This repository contains the resources that are discussed during the weekly meet
  | 8     | 18th Jan 2020    |Discussion session on concepts learnt              |                 |
   
  ## Members
--[Aditya Trivedi](https://github.com/ad1tyat)
+- [Aditya Trivedi](https://github.com/ad1tyat)
 - [Name](Github Url)
 
 # Phase 2 - 2019
