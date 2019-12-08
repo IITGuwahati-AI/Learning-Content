@@ -37,6 +37,7 @@ This repository contains the resources that are discussed during the weekly meet
  ## Members
 
 - [Name](Github Url)
+- [Shashwat Sharma](https://github.com/Svanazar)
 
 # Phase 2 - 2019
 
