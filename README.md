@@ -36,8 +36,7 @@ This repository contains the resources that are discussed during the weekly meet
   
  ## Members
 
-- [Name](Github Url)
-
+- [Aakif Akhtar](https://github.com/Norman777)
 # Phase 2 - 2019
 
 
