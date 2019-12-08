@@ -1,0 +1,1 @@
+as in plot of feature 1 and 2 the points plotted for label1 and label2 can be enclosed in mutually exclusive regions in 2d space, so the labels can be easily distinguished.
