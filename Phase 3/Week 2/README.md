@@ -7,4 +7,4 @@
 5. Add your python or jupyter notebook files and create pull request.
 6. For linear regression in sklearn you can take help from [here](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html).
 7. Each part of the assignment has equal weightage - total 100 points.
-8. (***For Coursera Certificate***)You can directly submit your assignment from the python notebook by entering your email,submission code(you can find it in programming assignment section in week 2 of course in coursera).No need to submit again in coursera.[[Any queries ping me]](https://www.facebook.com/abhilashreddy53)
+8. (***For Coursera Certificate***)You can directly submit your assignment from the python notebook by entering your email,submission code(you can find it in programming assignment section in week 2 of course in coursera).No need to submit again in coursera.[[Any queries refer the post in the Group]](https://www.facebook.com/groups/355807202009854/)
