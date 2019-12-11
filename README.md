@@ -35,8 +35,12 @@ This repository contains the resources that are discussed during the weekly meet
  | 8     | 18th Jan 2020    |Discussion session on concepts learnt              |                 |
   
  ## Members
-
-- [Name](Github Url)
+- [Tejasa Chalamarla](https://github.com/tejasach)
+- [Varenyam Bakshi](https://github.com/varenyamBakshi)
+- [Nilay Kala](https://github.com/Nilay2309)
+- [Aakif Akhtar](https://github.com/Norman777)
+- [Shashwat Sharma](https://github.com/Svanazar)
+- [Aditya Trivedi](https://github.com/ad1tyat)
 
 # Phase 2 - 2019
 
