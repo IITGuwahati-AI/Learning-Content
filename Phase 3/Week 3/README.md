@@ -5,4 +5,4 @@
 3. For logistic regression you can take help from [here](https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac).
 4. Add your python(if you are doing by your own) or jupyter notebook files and create pull request.
 5. Each part of the assignment has equal weightage - total 100 points.
-6. To understand the difference between L1 and L2 regularization you can check [this](https://www.youtube.com/watch?v=sO4ZirJh9ds) video.
+6. To understand the difference between L1 and L2 regularization you can check this [video](https://www.youtube.com/watch?v=sO4ZirJh9ds).
