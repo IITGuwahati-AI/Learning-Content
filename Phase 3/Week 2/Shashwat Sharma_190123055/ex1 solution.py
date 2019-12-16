@@ -6,15 +6,15 @@ from sklearn.linear_model import LinearRegression
 #Single variable linear
 data1=pd.read_csv("ex1/ex1data1.txt",names=["Pop","Prof"])
 reg=LinearRegression()
-xtr1=data1['Prof'].values.reshape(-1,1) # values returns a 1d array here, We want a column vector so reshape
-ytr1=data1['Pop'].values.reshape(-1,1)
+xtr1=data1['Pop'].values.reshape(-1,1) # values returns a 1d array here, We want a column vector so reshape
+ytr1=data1['Prof'].values.reshape(-1,1)
 reg.fit(xtr1,ytr1)
 # print(f'h(x)={reg.intercept_}+{reg.coef_}x')
 # print(type(reg.intercept_))
 # print(type(reg.coef_))
-data1.plot(x='Prof',y='Pop', kind='scatter') #Pandas uses pyplot to plot stuff
-plt.xlabel('Profits in 10,000s') 
-plt.ylabel('Population of City in 10,000s')
+data1.plot(x='Pop',y='Prof', kind='scatter') #Pandas uses pyplot to plot stuff
+plt.ylabel('Profits in 10,000s') 
+plt.xlabel('Population of City in 10,000s')
 xtest=np.linspace(1,25,200) #creates a uniformly spaced array having 200 elements b/w 1 and 25 (inclusive)
 ytest=reg.predict(xtest[:,np.newaxis]) #again, need a column vector
 plt.plot(xtest,ytest,color="green") #Plots the best fit line obtained by regression
