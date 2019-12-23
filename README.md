@@ -40,7 +40,8 @@ This repository contains the resources that are discussed during the weekly meet
 - [Nilay Kala](https://github.com/Nilay2309)
 - [Aakif Akhtar](https://github.com/Norman777)
 - [Shashwat Sharma](https://github.com/Svanazar)
-- [Aditya Trivedi](https://github.com/ad1tyat)
+- [Aditya Trivedi](https://github.com/ad1tyat) 
+- [Anant Shankhdhar](https://github.com/AnantShankhdhar)
 
 # Phase 2 - 2019
 
