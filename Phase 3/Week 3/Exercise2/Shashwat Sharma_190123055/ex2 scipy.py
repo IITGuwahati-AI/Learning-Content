@@ -77,7 +77,7 @@ print("Theta all ones and lambda =10")
 print(f'Cost: {cost}')
 print(f'Gradient(first five elements): {grad[:5].round(4)}')
 options={'maxiter':100}
-res=optimize.minimize(costFunction,initial_theta,(x2,y2),jac=True,method='TNC',options=options)
+res=optimize.minimize(costFunctionReg,initial_theta,(x2,y2,lambda_),jac=True,method='TNC',options=options)
 cost=res.fun
 theta=res.x
 print(f'Cost at optimised theta: {cost.round(3)}')
