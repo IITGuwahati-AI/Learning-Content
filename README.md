@@ -41,6 +41,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Aakif Akhtar](https://github.com/Norman777)
 - [Shashwat Sharma](https://github.com/Svanazar)
 - [Aditya Trivedi](https://github.com/ad1tyat)
+- [Sanngesh ](https://https://github.com/sanngesh01)
 
 # Phase 2 - 2019
 
