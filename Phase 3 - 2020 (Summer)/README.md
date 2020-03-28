@@ -1,6 +1,7 @@
 # IITG.ai
 
 - Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
+- ***For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post with your doubts.***
 
 ## Phase 3 - 2020 (Summer)
  
@@ -21,6 +22,3 @@ Follow this [GitHub Tutorial](https://towardsdatascience.com/getting-started-wit
 2. Upload the code and results of every week assignment in a folder with the format <name_roll number> in your own forked repo and make a pull request to this parent repository.
 
 3. You need complete the task of every week with in the stipulated time, no request will be entertained afer that.
-
-## Members
-- [Name](https://github.com/username)

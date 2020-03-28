@@ -26,4 +26,4 @@ Follow this [GitHub Tutorial](https://guides.github.com/activities/hello-world/)
 
 3. After **4 Apr 2020 EOD** no request will be entertained.
 
-4. For any serious doubt regarding code on data set create an issue in this very repository or comment on the FB post with your doubts.
+4. For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post with your doubts.
