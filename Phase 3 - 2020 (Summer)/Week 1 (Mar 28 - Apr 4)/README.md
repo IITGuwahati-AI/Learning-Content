@@ -1,6 +1,6 @@
 # Week 1 (Mar 29 - Apr 4):
 1. Create [Github](https://github.com) , [LinkedIn](https://linkedin.com) and [medium](https://medium.com/) profile.
-2. Create a pull request to add yourself in the member list of phase 3 Summer [README.md]().  
+2. Create a pull request to add yourself in the member list of phase 3 Summer [README.md](https://github.com/IITGuwahati-AI/Learning-Content/blob/master/Phase%203%20-%202020%20(Summer)/README.md).  
 3. For ***Linux users*** can check whether python3 is installed. (**Prefered** )
 > Open terminal(Ctrl + Alt + T):
 ```shell
@@ -30,7 +30,7 @@ $pip3 install numpy pandas matplotlib scikit-learn
 
 Follow this [GitHub Tutorial](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6) to get started with Github. Then, follow the following steps:
 
-1. Fork this *repository* (This will create a copy of this repository on your profile which you can tinker with).
+1. Fork this *repository* (This will create a copy of this repository on your profile).
 
 2. Upload the code and results(graphs/plots/best feature with explantion) in a folder with the format <name_roll number> in your own forked repo and make a pull request to this parent repository.
 

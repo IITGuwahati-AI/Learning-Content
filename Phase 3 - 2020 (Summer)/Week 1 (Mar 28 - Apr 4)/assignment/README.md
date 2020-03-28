@@ -20,7 +20,7 @@
 
 Follow this [GitHub Tutorial](https://guides.github.com/activities/hello-world/) to get started with Github. Then, follow the following steps:
 
-1. Fork this *repository* (This will create a copy of this repository on your profile which you can tinker with).
+1. Fork this *repository* (This will create a copy of this repository on your profile).
 
 2. Upload the code and results(graphs/plots/best feature with explantion) in a folder with the format <name_roll number> in your own forked repo and make a pull request to this parent repository.
 
