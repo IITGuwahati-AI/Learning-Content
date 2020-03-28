@@ -1,7 +1,6 @@
 # IITG.ai
 
 - Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
-- Create a pull request to add yourself in the member list of phase 3 Summer [README.md](https://github.com/IITGuwahati-AI/Learning-Content/blob/master/Phase%203%20-%202020%20(Summer)/README.md).
 
 ## Phase 3 - 2020 (Summer)
  
