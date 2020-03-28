@@ -14,7 +14,7 @@ $ sudo apt install python3-pip
 ```
 3. For ***Windows users*** Install [Python 3.6/3.7](https://www.python.org/downloads/).
 4. (Optional) Install [Anaconda](https://www.anaconda.com/download/)
-5. Install scikit-learn, numpy, pandas, matplotlib
+5. Install ***scikit-learn, numpy, pandas, matplotlib***
 ```shell
 $pip3 install numpy pandas matplotlib scikit-learn
 ```
@@ -35,4 +35,4 @@ Follow this [GitHub Tutorial](https://towardsdatascience.com/getting-started-wit
 
 3. After **4 Apr 2020 EOD** no request will be entertained.
 
-4. For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post with your doubts.
+4. For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post ***(of particular week)***with your doubts.

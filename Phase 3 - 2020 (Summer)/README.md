@@ -1,7 +1,7 @@
 # IITG.ai
 
 - Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
-- ***For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post with your doubts.***
+- ***For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post (of particular week) with your doubts.***
 
 ## Phase 3 - 2020 (Summer)
  
@@ -9,7 +9,7 @@
  
 |Week   |Start Date        |Content                                            |End Date         |
 |-------|------------------|---------------------------------------------------|-----------------|
-| 1     | 29 Mar 2019      |Python + use of matplotlib,numpy and pandas        | 4 Apr 2020      |
+| 1     | 29 Mar 2019      |**Python** + use of **matplotlib,numpy and pandas**| 4 Apr 2020      |
 
 > Will updated as time proceeds.
 
