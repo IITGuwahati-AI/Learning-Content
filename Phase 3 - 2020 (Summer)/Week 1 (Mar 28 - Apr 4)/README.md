@@ -1,7 +1,7 @@
 # Week 1 (Mar 29 - Apr 4):
 1. Create [Github](https://github.com) , [LinkedIn](https://linkedin.com) and [medium](https://medium.com/) profile.
 2. Create a pull request to add yourself in the member list of phase 3 Summer [README.md](https://github.com/IITGuwahati-AI/Learning-Content/blob/master/Phase%203%20-%202020%20(Summer)/README.md).  
-3. For ***Linux users*** can check whether python3 is installed. (**Prefered** )
+3. For ***Linux users*** can check whether python3 is installed. (**Prefered**)
 > Open terminal(Ctrl + Alt + T):
 ```shell
 $python3
@@ -13,7 +13,7 @@ $ sudo apt-get update
 $ sudo apt-get install python3.6
 $ sudo apt install python3-pip
 ```
-4. For ***Windows users*** Install [Python 3.6/3.7](https://www.python.org/downloads/) (Windows Users).
+4. For ***Windows users*** Install [Python 3.6/3.7](https://www.python.org/downloads/).
 5. (Optional) Install [Anaconda](https://www.anaconda.com/download/)
 6. Install scikit-learn, numpy, pandas, matplotlib
 ```shell
