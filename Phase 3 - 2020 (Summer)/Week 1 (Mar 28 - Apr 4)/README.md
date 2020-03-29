@@ -23,16 +23,16 @@ $ python3 ez_setup.py
 $ curl -O https://bootstrap.pypa.io/get-pip.py
 $ python3 get-pip.py
 ```
-4. (Optional) Install [Anaconda](https://www.anaconda.com/download/)
-5. Install ***scikit-learn, numpy, pandas, matplotlib***
+5. (Optional) Install [Anaconda](https://www.anaconda.com/download/)
+6. Install ***scikit-learn, numpy, pandas, matplotlib***
 ```shell
 $pip3 install numpy pandas matplotlib scikit-learn
 ```
-6. [Python Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) till 22nd video. (**Beginners Only**)
-7. Complete the [Python Numpy](http://cs231n.github.io/python-numpy-tutorial/) tutorial attached.
-8. Complete the [Matplotlib Crash Course Python Tutorial - sentdex](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
-9. Complete the [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
-10. Complete the Assignment in the `assignment` folder and submit the solution with the code.
+7. [Python Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) till 22nd video. (**Beginners Only**)
+8. Complete the [Python Numpy](http://cs231n.github.io/python-numpy-tutorial/) tutorial attached.
+9. Complete the [Matplotlib Crash Course Python Tutorial - sentdex](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
+10. Complete the [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
+11. Complete the Assignment in the `assignment` folder and submit the solution with the code.
 
 
 # How to Submit Your Solution
