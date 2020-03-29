@@ -13,6 +13,16 @@ $ sudo apt-get install python3.6
 $ sudo apt install python3-pip
 ```
 3. For ***Windows users*** Install [Python 3.6/3.7](https://www.python.org/downloads/).
+4. For ***MAC OS users***
+> Open Terminal
+```shell
+$ xcode-select --install
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ curl -O https://bootstrap.pypa.io/ez_setup.py
+$ python3 ez_setup.py
+$ curl -O https://bootstrap.pypa.io/get-pip.py
+$ python3 get-pip.py
+```
 4. (Optional) Install [Anaconda](https://www.anaconda.com/download/)
 5. Install ***scikit-learn, numpy, pandas, matplotlib***
 ```shell
