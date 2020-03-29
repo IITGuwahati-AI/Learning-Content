@@ -2,6 +2,7 @@
 
 - Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
 - ***For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post (of particular week) with your doubts.***
+- After forking this [repo](https://github.com/IITGuwahati-AI/Learning-Content) and add your name, roll number, branch and github profile's url in this [doc](https://docs.google.com/spreadsheets/d/1AicCcRpM5un5dFXsSLT4m3fDgaOM_NqwHsKdoaT0g84/edit?usp=sharing).
 
 ## Phase 3 - 2020 (Summer)
  
