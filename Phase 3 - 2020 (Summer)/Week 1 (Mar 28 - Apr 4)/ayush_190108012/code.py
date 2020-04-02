@@ -19,6 +19,10 @@ for i in range(1,10):
 	if (i!=9):	
 		fig,axs=plt.subplots(10-i,sharex='all')
 	for j in range(i+1,11):
+		x1=[]
+		x2=[]
+		y1=[]
+		y2=[]
 		for k in range(0,999):
 			x=d[k,0]
 			if (x==2.00):			
