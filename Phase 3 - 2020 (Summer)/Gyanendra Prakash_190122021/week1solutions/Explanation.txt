@@ -1,4 +1,4 @@
-data sets were imported into matrix using loadgentext function.
+data sets were imported into matrix using gentext function.
 all plots uploaded
 The two features which classify the two labels perfectly were feature 1 and feature 2, cause their plots caused least overlapping between the two labels.
 Bonus question's answer: 
