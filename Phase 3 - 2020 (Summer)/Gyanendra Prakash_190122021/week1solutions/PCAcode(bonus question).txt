@@ -5,7 +5,7 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import scale
 //I used an online compiler so i directly used the link of data sets text file
 data = np.loadtxt("https://raw.githubusercontent.com/Gyaniultimate/Learning-Content/master/Phase%203%20-%202020%20(Summer)/Week%201%20(Mar%2028%20-%20Apr%204)/assignment/data.txt", delimiter  = '\t', skiprows = 1)
-t = np.array(data)
+t = np.delete(data,0,1)  //deleting the labels column as it doesn't represent the features.
 t = scale(t)
 pca = PCA(n_components=10)
 pca.fit(t)
@@ -14,7 +14,7 @@ print(var)
 
 
 //output:
-// [0.23726612 0.17676103 0.15981101 0.09621538 0.09111189 0.08667718
- 0.07268585 0.04182227 0.01873639 0.01269897]
+[0.19550175 0.17821025 0.1740652  0.10549293 0.10017266 0.09534421
+ 0.07929688 0.04445225 0.02060953 0.00685434]
  //This was the output that came, so we can see that variance of feature 1 and feature 2 are max, hence my observation was correct. 
  
