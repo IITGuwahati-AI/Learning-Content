@@ -8,11 +8,12 @@
 6. For linear regression in sklearn you can take help from [here](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html).
 7. Add your jupyter notebook files and create pull request.
 8. Install Anaconda for python3.6/3.7 , [installation docs](https://docs.anaconda.com/anaconda/install/) choose you OS and install accordingly. <ins>**Add Anaconda to your path variables**</ins>
-9. [Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/), Open Jupyter either form Anaconda Navigator or from the terminal.p
-10. **Each part of the assignment has equal weightage - total 100 points.**
-11. After **Apr 11 EOD** no request will be entertained for assignment submission.
-12. Complete assignment in octave (for the sake of your certification, it is optional and does not consist of any point).
-13. You submit the assignments to Coursera directly from the jupyter notebook (\* ***Conditions Apply***).
+9. [Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/), Open Jupyter either form Anaconda Navigator or from the terminal.
+10. For any serious doubt regarding code or data set create an issue in this very repository or comment on the FB post (***of particular week***)with your doubts.
+11. **Each part of the assignment has equal weightage - total 100 points.**
+12. After **Apr 11 EOD** no request will be entertained for assignment submission.
+13. Complete assignment in octave (for the sake of your certification, it is optional and does not consist of any point).
+14. You submit the assignments to Coursera directly from the jupyter notebook (\* ***Conditions Apply***).
 
 ### Additional References
 > **Some articles maybe in an advance level for some people, So if you don't understand don't worry**
