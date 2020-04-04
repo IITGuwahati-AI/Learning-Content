@@ -1,0 +1,3 @@
+Features 2 and 10.
+Reason: In all the plots consisting of features 2 and 10, we can see some sort  of clustering of the data, which implies that we can predict the labelling of a variable plot depending on the closeness to either of the clusters just by plotting the graphs of these two features.
+That is why i claim that features 2 and 10 are sufficient to tell if a plot is label 1 orlabel 2 and hence classify that plot as one of the two. 
