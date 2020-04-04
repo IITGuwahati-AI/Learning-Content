@@ -1,0 +1,140 @@
+from sklearn.preprocessing import StandardScaler
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+
+from sklearn.decomposition import PCA
+
+
+
+
+
+
+
+#loading data
+data = np.loadtxt('data1.txt',dtype=type(''))
+featuredata=data[1:,1:]
+labeldata = data[1:,0]
+final=[]
+
+
+
+
+
+
+#covertin it as I used numpy to loadtxt rahter than csv as specified 
+for row in featuredata :
+    row = list(map(float,row))
+    final.append(row)
+   
+
+
+
+#converting to a panda dataframe
+features=['1','2','3','4','5','6','7','8','9','10']
+fdf= pd.DataFrame(data=final,
+                    columns=features)
+
+    
+# this is Standardised data from our feature
+final= StandardScaler().fit_transform(fdf.loc[:,features].values)
+
+
+
+
+#using pca to convert in two feature
+pca = PCA(n_components=2)
+principalComponents = pca.fit_transform(final)
+principalDf = pd.DataFrame(data = principalComponents
+             , columns = ['principal component 1', 'principal component 2'])
+
+
+
+
+
+
+
+
+
+#rhis is the labels 
+target = pd.DataFrame(data=labeldata,
+                     columns=['labels'])
+
+
+
+#concating the features and labels dataframe
+finalDf = pd.concat([principalDf, target], axis = 1)
+
+
+
+
+
+#ploting the scatter for best fearues : It can be seen that this matches with graph of feature 1 and 2
+
+
+
+
+
+# fig = plt.figure(figsize = (8,8))
+# ax = fig.add_subplot(1,1,1) 
+# ax.set_xlabel('Principal Component 1', fontsize = 15)
+# ax.set_ylabel('Principal Component 2', fontsize = 15)
+# ax.set_title('2 component PCA', fontsize = 20)
+# targets = ['1', '2']
+# colors = ['r', 'b']
+
+
+
+# for target, color in zip(targets,colors):
+#     indicesToKeep = finalDf['labels'] == target
+#     ax.scatter(finalDf.loc[indicesToKeep, 'principal component 1']
+#                , finalDf.loc[indicesToKeep, 'principal component 2']
+#                , c = color
+#                , s = 50)
+# ax.legend(targets)
+# ax.grid()
+
+
+
+#varince of the total data in our best features 
+
+
+var2=pca.explained_variance_ratio_
+for i in range(2) :
+    print("variance of pca {} is {}".format(i+1,var2[i]))
+    
+    
+
+
+
+
+
+
+
+# just finding the vaince in all of our features 
+pca2 = PCA()
+principalComponents = pca2.fit_transform(final)
+principalDfforall = pd.DataFrame(data = principalComponents)
+var=pca2.explained_variance_ratio_
+
+
+
+
+#printing all ratios
+
+
+
+for i in range(10) :
+    print("variance of Feature {} is {}".format(i+1,var[i]))
+   
+        
+        
+        
+        
+        
+        
+        
+        
+print('\n'*5+'Varaince of fature 1 and 2 matches closely with the best feature varance from pca'.upper())
+    
+    
