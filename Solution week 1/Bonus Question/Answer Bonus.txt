@@ -1,0 +1,7 @@
+The features obtained after applying pca on the dataset 
+- The given csv contain principle features 1 and 2 and second 
+  files contain feature 1 and 2 standardized
+- comparing a few vales we can see there is a significant difference
+  in comparison to features 1 and 2
+- We can also compare its plot to Feature 2 vs 1 and its clearly seen
+  the obtained features are very different
