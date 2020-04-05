@@ -56,7 +56,7 @@ for i in range(1,11):
 
         p = pca.fit_transform(x)
 
-        print('.m')
+#         print('.m')
 
         l1=plt.plot(p[data[:,0]==1,0],'r+',label='label 1',color='red')
         l2=plt.plot(p[data[:,0]==2,0],'b+',label='label 2',color='blue')
