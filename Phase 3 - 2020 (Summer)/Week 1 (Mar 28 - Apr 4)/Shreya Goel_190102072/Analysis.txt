@@ -1,0 +1,2 @@
+After plotting graphs of all features vs each other and analysing all the graphs manually, I have concluded that the plot of
+Feature-1 vs Feature-2 classifies the 2 labels the best.
