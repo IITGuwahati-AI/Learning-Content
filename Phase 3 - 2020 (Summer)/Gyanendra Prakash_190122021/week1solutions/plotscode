@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
-from sklearn.decomposition import PCA
+
 a=np.genfromtxt('data.txt',skip_header=1)
 print (a)
 label=a[:,0]
