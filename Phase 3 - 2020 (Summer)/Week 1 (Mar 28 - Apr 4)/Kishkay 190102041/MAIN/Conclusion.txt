@@ -1,0 +1,4 @@
+Feature 1 vs 2 is the best way to differentiate between the two labels.
+This is because there is a definite simple curve that divides the two region taken by the two labels.
+Given a new set of features of some new label, the label can be determined by solely plotting its feature 1 vs 2.
+Same can be said for the graphs from PCA
