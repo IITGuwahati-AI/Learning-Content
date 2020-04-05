@@ -1,0 +1,14 @@
+Assignment - Week 1
+
+1. The data from data.txt is loaded into a matrix in the file plots.ipynb
+
+2. The features are plotted vs each other (2 at a time) also in the file plots.ipynb . The plots are saved along with titles and are
+   displayed in the file plots.ipynb
+
+3. The 2 best features for representing the data are Feature 1 and Feature 2, since they have a clear division boundry between labels
+   i.e you can separate out label = 1 and label = 2 with a distinct boundry.
+
+4.(Bonus Question) In pca.ipynb, the function takes all the features 2 at a time, apply PCA on them and gives a principal component.
+   This principal component is plotted along labels. By observation, we find that plot between Principal component derived from 
+   feature 1 and feature 2 provides the clearest classification between label = 1 and label = 2. Hence, best 2 features are feature
+   1 and feature 2 and yes, the answer matches with part 3. Also, the plots are saved in the same folder and in pca.ipynb
