@@ -76,4 +76,17 @@ for i in range(0,rows):
 plt.savefig('pca features')
 plt.show()
 
-#with pca feature 3 and 10 are obtained best and without pca 1 and 2
+
+
+'''  feature 1 vs feature 2 able to differentiate labels properly without PCA
+[[ 0.10409042  0.11869575 -0.66772398 -0.03648085 -0.10590219 -0.00295952
+  -0.17076494  0.66635621 -0.17927799  0.10646334]
+ [ 0.37837136  0.40760218  0.2189692   0.11801913 -0.16164916  0.01214715
+  -0.40233945 -0.21976515 -0.40413644  0.47858282]]
+
+these are components of pca
+components of pca are eigen vectors of covariance matrix and eigen vectors arranged in decresing order
+magnitude represent the weightage to a perticular feature and index to maximum magnitude represent the feature with most contribution
+
+so, with pca feature 3 and 10 are obtained to be best'''
+#with pca feature 3 and 10 are obtained best and without pca features  1 and 2 are best
