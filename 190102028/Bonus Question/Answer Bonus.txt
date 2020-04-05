@@ -1,0 +1,8 @@
+Pricicple Features are given in the csv provided
+- These features are calculated after standardizing all parameters
+  and decomposing them to two principle paramters
+- The the give values are very different from standardized values 
+  of feature 1 and 2
+- This can be seen by comparing magnitude of values and also the plots formed
+  by the principle vales
+- The shape and distribution of values in the given plot are very different
