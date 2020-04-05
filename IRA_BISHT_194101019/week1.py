@@ -55,3 +55,28 @@ for i in range(1,column):
 #Features 1 and 2 can classify the two labels perfectly.
 print("Features 1 and 2 can classify the two labels perfectly.")
 
+#pca
+import pandas as pd
+from sklearn.decomposition import PCA
+from sklearn import preprocessing
+
+
+without_header=f[1::,1:]
+X=pd.DataFrame(without_header)
+
+header=f[0,1:]
+X.columns=header
+print(X.shape)
+
+from sklearn.preprocessing import StandardScaler
+x = X.loc[:, header].values
+x = StandardScaler().fit_transform(x) # normalizing the features
+print(x.shape)
+
+pca=PCA(n_components=2)
+pca.fit_transform(x)
+final=pca.components_
+print(final)
+print(np.argsort(final))
+print('Acoording to array, 8th and 10th features are most suitable')
+
