@@ -55,21 +55,3 @@ for i in range(1,column):
 #Features 1 and 2 can classify the two labels perfectly.
 print("Features 1 and 2 can classify the two labels perfectly.")
 
-#pca
-from sklearn.preprocessing import StandardScaler
-
-
-x=f[:,1::]
-x = StandardScaler().fit_transform(x)
-y=f[1::,0]
-y=y.astype(int)
-from sklearn.decomposition import PCA
-import pandas as pd
-a=y.tolist()
-df = pd.DataFrame(a,columns=['Target'])
-pca = PCA(n_components=10)
-principalComponents = pca.fit_transform(x)
-var=np.cumsum(np.round(pca.explained_variance_ratio_, decimals=3)*100)
-print(var)
-print("At least 7 components are needed to retain 90% of features.")
-
