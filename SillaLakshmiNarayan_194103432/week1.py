@@ -62,12 +62,6 @@ print(result1,result2)
 
 print('best features according to pca are 3 and 10')
 
-pca_1=principalComponents[:,0]
-pca_2=principalComponents[:,1]
-
-abs_pca_1=np.abs(pca_1)
-abs_pca_2=np.abs(pca_2)
-print(abs_pca_1,abs_pca_1)
 #visualization
 plt.figure('pca')
 plt.xlabel('pca 1')
