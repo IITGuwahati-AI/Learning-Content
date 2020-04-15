@@ -10,7 +10,8 @@
  
 |Week   |Start Date        |Content                                            |End Date         |
 |-------|------------------|---------------------------------------------------|-----------------|
-| 1     | 29 Mar 2019      |**Python** + use of **matplotlib,numpy and pandas**| 4 Apr 2020      |
+| 1     | 29 Mar 2020      |**Python** + use of **matplotlib,numpy and pandas**| 4 Apr 2020      |
+| 2     | 05 Apr 2020      | ML Coursera Week 1 & 2                            | 11 Apr 2020     |
 
 > Will updated as time proceeds.
 
