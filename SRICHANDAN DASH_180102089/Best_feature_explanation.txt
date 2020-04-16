@@ -1,0 +1,1 @@
+The Features 1 and Features 2 classify the two labels the best and this is easily observed in the graphs plotted. The same is proved by applying PCA on tha dataset and observing the variance ratios for the components.
