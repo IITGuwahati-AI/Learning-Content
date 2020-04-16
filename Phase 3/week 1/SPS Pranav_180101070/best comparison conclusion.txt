@@ -1,0 +1,4 @@
+By observing all graphs i.e each feature vs other we can conclude that Feature 1 vs Feature 2 
+graphs gives a easier distinction between Label 1 and label 2 beacuse the points are scattered well enough that they can
+be seperated by a curve and also other comparisons had blue and red points coincide at some place which makes drawing a curve 
+difficult.Hence we can conclude that Feature 1 vs Feature 2 is the best possible comparison.
