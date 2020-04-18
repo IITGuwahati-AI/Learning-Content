@@ -1,0 +1,5 @@
+Week 3 Assignment Readme - Akshat Sinha (190101008)
+
+1. The Logistic Regression is implemented in 'LogisticRegression.ipynb'.
+
+2. The Logistic Regression with Regularization is implemented in 'LogisticRegressionRegularized.ipynb'
