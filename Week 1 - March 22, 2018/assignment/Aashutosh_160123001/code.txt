@@ -1,0 +1,13 @@
+import pandas as pd
+data=pd.read_csv("C:\Users\Aashutosh\Desktop\mydata.csv)
+%matplotlib inline
+import matplotlib.pyplot as plt
+for x in range(1,10):
+        for y in range(x+1,11):
+            plt.scatter(data.iloc[:,x],data.iloc[:,y],c=data['Label'])
+            plt.xlabel("feature "+str(x))
+            plt.ylabel("feature "+str(y))
+            plt.title("Scatter Plot of Feature "+str(x)+" vs "+"Feature "+str(y))
+            plt.legend()
+            plt.savefig(str(x)+"-"+str(y))
+            plt.show()
