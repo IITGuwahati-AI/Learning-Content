@@ -1,1 +1,1 @@
-The solutions are in the Week_2 folder as a jupyter notebook
+The solutions are in the Phase 3(Summer) folder as Week_3 folder
