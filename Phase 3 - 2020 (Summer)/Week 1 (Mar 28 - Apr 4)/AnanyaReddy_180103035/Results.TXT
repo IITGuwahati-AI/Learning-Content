@@ -1,0 +1,18 @@
+From the plotted graphs,it is clear than feature 1 and feature 2 classify the labels perfectly.
+
+Using PCA, we can reduce the dimensions of the data but pointing out the best features isn't possible.In this case,my output for the PCA Code is:
+[0.19550175 0.17821025 0.1740652  0.10549293 0.10017266] - these are the values of amount of variances contained by prinicipal components(5- I took 5 so that it accounts for 90% of accuracy)
+                                                           but this doesn't tell which feature of original data gives the most variance/is most important.
+[[0.10409042 0.11869575 0.66772398 0.03648085 0.10590219 0.00295952
+  0.17076494 0.66635621 0.17927799 0.10646334]
+ [0.37837136 0.40760218 0.2189692  0.11801913 0.16164916 0.01214715
+  0.40233945 0.21976515 0.40413644 0.47858282]
+ [0.32633471 0.35747668 0.06191702 0.02842762 0.33809553 0.05501966
+  0.3998028  0.06607062 0.55835034 0.40960441]
+ [0.00670838 0.09501155 0.03217599 0.40056039 0.65599696 0.44525857
+  0.42354667 0.02572675 0.00212113 0.14421697]
+ [0.06548049 0.08347836 0.02389917 0.68768389 0.04258868 0.71248537
+  0.00629861 0.04266031 0.04477033 0.04416122]]
+This numpy array is the array containing the eigen vectors/loading of features for the 5 principal components.Since the pc1 accounts for the highest variance(19.5%),observing its components we get
+feature 3 and feature 8 to be the answer but that's wrong.
+PCA doesnt give any right answer because the array points in the direction of maximum variance but doesnt account for any feature selection based on the values
