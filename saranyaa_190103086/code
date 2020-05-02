@@ -1,0 +1,40 @@
+import matplotlib.pyplot as plt
+import numpy as np
+v=np.zeros((11,1000))
+v=np.loadtxt('data.txt')
+a=np.arange(1,11)
+g=np.arange(1,999)
+b=1
+c=2
+x=np.zeros((1000,1))
+y=np.zeros((1000,1))
+p=np.zeros((1000,1))
+q=np.zeros((1000,1))
+for b in a:
+    c=b+1
+    while(c<11):
+        j=0
+        k=0
+        for num in g:
+            
+            if v[num,0]==1:
+                x[j]=v[num,b]
+                y[j]=v[num,c]
+                j=j+1
+                
+            if v[num,0]==2:
+                p[k]=v[num,b]
+                q[k]=v[num,c]
+                k=k+1
+                
+        lx='feature'+str(b)
+        ly='feature'+str(c)
+        plt.title('asd')
+        plt.scatter(x,y,color='r',label='label 1')
+        plt.scatter(p,q,color='c',label='label 2')
+        plt.ylabel(lx)
+        plt.xlabel(ly)
+        plt.legend()
+        plt.show()
+        c=c+1
+        
