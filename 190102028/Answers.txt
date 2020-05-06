@@ -1,0 +1,71 @@
+
+ANS 3
+Feature 1 and 2
+
+ANS 4
+
+Following is the pairwise calculation of variance ratios
+		
+0	1 vs 2	0.601855
+1	1 vs 3	0.513314
+2	1 vs 4	0.535774
+3	1 vs 5	0.512300
+4	1 vs 6	0.511362
+5	1 vs 7	0.527953
+6	1 vs 8	0.508090
+7	1 vs 9	0.505518
+8	1 vs 10	0.708431
+9	2 vs 3	0.512846
+10	2 vs 4	0.513642
+11	2 vs 5	0.513995
+12	2 vs 6	0.509576
+13	2 vs 7	0.529421
+14	2 vs 8	0.513920
+15	2 vs 9	0.505260
+16	2 vs 10	0.745623
+17	3 vs 4	0.525963
+18	3 vs 5	0.511699
+19	3 vs 6	0.501449
+20	3 vs 7	0.516243
+21	3 vs 8	0.965388
+22	3 vs 9	0.507188
+23	3 vs 10	0.503992
+24	4 vs 5	0.512439
+25	4 vs 6	0.502086
+26	4 vs 7	0.519670
+27	4 vs 8	0.516607
+28	4 vs 9	0.510706
+29	4 vs 10	0.515705
+30	5 vs 6	0.523521
+31	5 vs 7	0.512571
+32	5 vs 8	0.513459
+33	5 vs 9	0.715322
+34	5 vs 10	0.502334
+35	6 vs 7	0.501592
+36	6 vs 8	0.502746
+37	6 vs 9	0.504416
+38	6 vs 10	0.505715
+39	7 vs 8	0.509195
+40	7 vs 9	0.825044
+41	7 vs 10	0.518205
+42	8 vs 9	0.506614
+43	8 vs 10	0.501413
+44	9 vs 10	0.503128
+​
+Maximum varience ratio is obtained form the case 3 vs 8
+This case is very differnet from the features obtained from plotting 
+	Plotting Result = feature 1 and 2
+	Variance Ratio = feature 3 and 8
+
+-Also it can be clearly viewed from the graphs of 1 vs 2 and 3 vs 8 that 1 vs 2 does a better job of classifying the data 
+in its particular label as there is clear boundry btw label 1 and 2 
+
+-Whereas in 3 vs 8 both the labels are overlapping each other.
+
+- 3 vs 8 graph show a curve which can be easily fitted in comparison to the scattered values. Hence a huge value 
+of variance ratio
+
+-This shows that PCA shouldn't be used for selecting features for a classification problem. As PCA dosent involve the input of labels.
+ 
+-Also the boundry shown by label 1 and 2 isn't linear and PCA shows issues with Non Linear classification problems
+
