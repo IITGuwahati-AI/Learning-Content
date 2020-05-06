@@ -1,0 +1,30 @@
+import os
+import numpy as np
+from matplotlib import pyplot as plt
+xmat = np.loadtxt('vdata.txt',skiprows=1)
+#Features to be initialised before execution of thr program
+#F1 is Feature No. 1; F2 is feature No. 2
+f1 = 1
+f2 = 2
+r_xarr = [0.0] * 1000
+r_yarr = [0.0] * 1000
+b_xarr = [0.0] * 1000
+b_yarr = [0.0] * 1000
+j = 0
+k = 0
+for i in range(0,999,1):
+    if(xmat[i, 0] == 1):
+        r_xarr[j] = xmat[i, f1:f1+1]
+        r_yarr[j] = xmat[i, f2:f2+1]
+        j += 1
+    else:
+        b_xarr[k] = xmat[i, f1:f1+1]
+        b_yarr[k] = xmat[i, f2:f2+1]
+        k += 1
+featurestr = 'Feature {}'
+titlestr = featurestr.format(f1)+' Vs '+featurestr.format(f2)
+plt.title(titlestr)
+plt.xlabel(featurestr.format(f1))
+plt.ylabel(featurestr.format(f2))
+plt.plot(r_xarr,r_yarr,'red') 
+plt.plot(b_xarr,b_yarr,'blue')  
