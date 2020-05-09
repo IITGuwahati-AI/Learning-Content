@@ -1,0 +1,5 @@
+Assignment Week 6 
+
+1. The SVM is implemented in SVmimplementation.ipynb
+
+2. The Spam Filter is implemented in SpamFilter.ipynb
