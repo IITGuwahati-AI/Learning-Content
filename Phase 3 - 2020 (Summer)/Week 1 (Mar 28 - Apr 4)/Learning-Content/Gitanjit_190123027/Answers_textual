@@ -1,0 +1,12 @@
+1.After comparing all the the bifeature graphs , on the basis of observation I have concluded that Feature 1 vs Feature 2 graph depicts 
+the labels in the best possible way as the two labels are nearly divided into 2 regions of concentric circles(1st quadrant only) centered
+at origin with radii 4 and 8 respectively
+2.PCA analysis
+Again feature pair 1,2 comes out to be the best pair as it distinguishes the labels in the best way . This conclusion has been arrived at in 2 ways
+a. In the first code block , the variance ratios have been compared after PCA reductionof feature pairs as well as feature pairs with labels
+-From the analysis it is concluded that features 3 and 8 retain the largest variance ratio when PCA-reduced from 2-d to 1-D
+That means that this feature pair is the most alike and hence redundant i.e. one feature can be expressed in the other's form  
+But when combined with the labels: 1,2 retains the highest variance ratio which means that it ,this pair, can depict the labels in the best possible way
+b.In the second code snippet the 1D reduced graphs of each pairs vs labels has been analysed at feature 1,2 pair comes out be the best pair again ,by observation
+From the analysis its clear from the figures that feature 1 and 2 pair distinguishes the labels most appropriately
+The second best pair seems to be 2,10 which matches with the first analysis made above {91.99 for feature 2,10 pair and 92.11 for 1,2 pair}

@@ -1,0 +1,24 @@
+#this code has been written in Jupyter Notebook
+import numpy as np
+import pandas as pd
+data=np.loadtxt(fname='data_wk1')#extracting data from the data_wk1 file created in the notebook home(with the first non-data row removed)
+                                 #into a 2d numpy.ndarray data
+X=data[:,0]#labels 1-D array
+Y=data[:,1:11]#features 2-D array
+from matplotlib import pyplot as plt
+from matplotlib import style
+style.use('ggplot')
+for m in range(1,11):
+    for n in range(m+1,11):
+        y1=data[:,m]
+        y2=data[:,n]
+        for i in np.arange(999):
+            if X[i]==1.0 :
+                plt.scatter(y1[i], y2[i], color='red')#, align='center')
+            elif X[i]==2.0 :
+                plt.scatter(y1[i], y2[i], color='blue')#, align='center')
+        plt.title('Feature'+str(m)+' vs Feature'+str(n))
+        plt.ylabel('feature'+str(n))
+        plt.xlabel('feature'+str(m))
+        plt.show()      
+        
