@@ -1,0 +1,1 @@
+feature 1 and feature 2 are the best features to classify label1 and label2 because in the graph feature1 vs feature2 it is very clearly shown that label1 and label2 can be differentiate perfectly and there is no overlapping of points
