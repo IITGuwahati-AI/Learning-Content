@@ -1,3 +1,9 @@
+Aishik Rakshit
+190122002
+CST
+https://github.com/Aishik13012002
+
+
 # IITG.ai
 
 - Resources include course/blog/tutorial/research paper links as well as details regarding graded assignments as well as prospective project ideas.
