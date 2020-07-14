@@ -1,0 +1,3 @@
+By looking at 1 vs 2.png wecan conclude that it is easilyposiible to draw two closed simple curves such that each has 99% of points of respective color.
+Alternatively we can draw a line such that almost 90% points can be segregated. 
+So I think first and second feature can classify the two labels most precisely.
