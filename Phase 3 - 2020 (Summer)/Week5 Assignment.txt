@@ -1,0 +1,5 @@
+Week 5 Assignment
+
+1. The Coursera Week 5 assignment is implemented in 'NNBackprop.ipynb'
+
+2. Thw Coursera Week 6 assignment is implemented in 'Week6Assignment.ipynb'
