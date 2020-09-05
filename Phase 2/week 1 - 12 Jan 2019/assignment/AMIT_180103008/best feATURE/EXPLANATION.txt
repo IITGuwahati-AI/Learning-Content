@@ -1,0 +1,2 @@
+-the f1vsf2 is the best feature since this plot is able to diffenciate between label 1 ands label 2 completely 
+-we can apprroximately draw a line that can separate the label 1 and label 2 in feature 1 vs feature 2 plot.

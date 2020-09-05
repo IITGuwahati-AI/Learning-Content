@@ -114,6 +114,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 12    | [Rohit Nandwani](https://github.com/nandwani-rohit)  |30                
   | 13    | [Mendu Sai Krishna](https://github.com/themendu)    |30   
 
+-[Amit Rai](https://github.com/amitrai12018) 
 
  ## Leader-Board 2 (Summer)
  
