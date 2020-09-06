@@ -1,0 +1,1 @@
+Feature 7 and 5 represent the 2 labels appropriately. Since the label's datapoints seem to spread over whole area uniformly and equally.
