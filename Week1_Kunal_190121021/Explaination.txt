@@ -1,0 +1,14 @@
+Part 1 :
+
+we can see from the plot that Feature 1 And 2 classify the labels best 
+
+
+
+
+Bonus : 
+
+
+
+   from the pca code we can see that the vaiance for feature 1 and 2 is equivalent to that of the best feature when we reduce the dimensions to 2
+
+also the plot by the best features is same almost same as feature 1vs 2

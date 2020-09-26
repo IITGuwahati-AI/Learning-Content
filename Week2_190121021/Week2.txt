@@ -1,0 +1,118 @@
+import numpy as np
+from matplotlib import pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+def plot_data(X,Y) :
+     
+      plt.plot(X.T[:,0],Y[:,0],'rx')
+      plt.xticks()
+      plt.ylabel('Profit in $10,000s')
+      plt.xlabel('Population of City in 10,000s')
+      
+        
+        
+        
+def computeCost(X,y,theta):
+    m=y.shape[0]
+    mul =np.dot(X,theta)-y
+    J = np.dot(mul.T,mul)/(2*m)
+    return J
+
+def gradientDescent(X,y,theta,alpha,num_iterations):
+    for i in range(num_iterations) :
+         theta=theta-alpha*np.dot(X.T,np.dot(X,theta)-y)/m ;
+    return theta
+        
+ 
+
+
+data = np.loadtxt('ex1data1.txt',dtype=float,delimiter=',')
+
+
+#2.1------------>>>
+
+
+X = np.array(data[:, 0]).reshape(1,97)
+y = np.array(data[:, 1]).reshape(y.shape[0],1)
+initial_theta= np.array([[0],[0]])
+plot_data(X,y)
+
+
+#2.2 ------------->>>
+
+
+#2.2.1 compute cost
+X= np.vstack((np.ones(m,dtype=float),X))
+print(computeCost(X.T,y,initial_theta))
+
+#test 
+test_theta=np.array([[-1],[2]])
+print(computeCost(X.T,y,test_theta))
+
+#2.2.4 gradient 
+theta=gradientDescent(X.T,y,initial_theta,0.01,1500)
+
+
+
+print('Theta computed from gradient descent:{},{}'.format(theta[0,0],theta[1,0]))
+
+
+plt.plot((X.T)[:,1], np.dot(X.T,theta), '-')
+
+
+
+predict1 = np.dot(np.array([[1], [3.5]]).T ,theta)
+print('For population = 35,000, we predict a profit of %{}'.format(predict1[0]*10000))
+predict2 = np.dot([1, 7] , theta)
+print('For population = 70,000, we predict a profit of {}%'.format(predict2[0]*10000))
+
+#2.4 ________________>
+
+
+theta0_vals = np.linspace(-10, 10, 100)
+theta1_vals = np.linspace(-1, 4, 100)
+
+
+J_vals = np.zeros((theta0_vals.shape[0], theta1_vals.shape[0]),float)
+
+
+for i in range(theta0_vals.shape[0]) :
+    for j in range(theta1_vals.shape[0]) :
+      t = np.array([[theta0_vals[i]],[theta1_vals[j]]]) 
+      J_vals[i,j]= computeCost(X.T, y, t)
+  
+
+print(J_vals.shape)
+J_vals = J_vals.T
+print(J_vals.shape)
+
+
+fig=plt.figure()
+ax =plt.axes(projection='3d')
+ax.plot_surface(theta1_vals, theta0_vals, J_vals)
+ax.set_xlim(4,-1)
+ax.set_ylim(10,-10)
+plt.xlabel('\theta_1')
+plt.ylabel('\theta_0')
+plt.show()
+
+# fig=plt.figure()
+# ax =plt.axes(projection='3d')
+# ax.plot_surface(theta1_vals, theta0_vals, J_vals)
+# plt.xlabel('\theta_0')
+# plt.ylabel('\theta_1')
+# plt.show()
+
+
+
+
+plt.figure()
+
+plt.contour(theta0_vals, theta1_vals, J_vals)
+plt.xlabel('\theta_0')
+plt.ylabel('\theta_1')
+plt.scatter(theta[0,0], theta[1,0])
+plt.show()
+
+
+computeCost(X.T,y,np.array([[-10],[-1]]))

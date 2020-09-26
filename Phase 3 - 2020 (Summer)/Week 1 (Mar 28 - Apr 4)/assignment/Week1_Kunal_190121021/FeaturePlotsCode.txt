@@ -1,0 +1,26 @@
+import numpy as np
+from matplotlib import pyplot as plt
+from numpy.random import random,randn
+
+data = np.loadtxt('data1.txt',dtype=type(''))
+
+label_color_dict= {
+    '1':'red',
+    '2': 'blue'
+}
+colors = ['b', 'c', 'y', 'm', 'r']
+cvec = [label_color_dict[label] for label in data[1:,0]]
+
+z = randn(10)
+for i in range(1,11) :
+    for j in range(i+1,11) :
+        
+            fig = plt.figure()
+            ax=fig.add_subplot(1,1,1)
+            ax.scatter(list(map(float,data[1:,i])),list(map(float,data[1:,j])),color=cvec,label='Sine')
+            plt.xlabel('Feature {}'.format(i))
+            plt.ylabel('Feature {}'.format(j))
+            plt.title('Feature {} vs Feature {}'.format(i,j))
+            
+            fig.savefig('feature{}vs{}.png'.format(i,j))
+            
