@@ -1,0 +1,5 @@
+Answer: Feature 1 vs Feature 2
+Explaination:
+Feature 1 and Feature 2 classify the two labels perfectly because
+In graph(scatter plot) of feature 1 vs feature 2 ,we can eazily draw a line(or you say arc) which
+seperates them perfectly.
