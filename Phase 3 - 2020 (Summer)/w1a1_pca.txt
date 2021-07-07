@@ -1,0 +1,8 @@
+From the pairwise feature plots it is clear that features 1 and 2 distingush the data based on class clearly than others
+
+The features obtained in PCA are different from the original features.
+We project the ten dimensional data on a subspace sppanned by the top two eigen vectors of the data covariance matrix(corresponding to the first two high eigen values) which are called principal components.
+They explain most of the variance in the data. Each pricnipal compoment can be thought of as a linear combination of the ten features. 
+The relative importance of the 10 features in the two pca features is given in ascending order,
+PCA feature 1 - [5 3 0 4 9 1 6 8 7 2]
+PCA feature 2 - [5 3 4 2 7 0 6 8 1 9]
