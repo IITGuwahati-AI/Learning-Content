@@ -1,0 +1,1 @@
+Feature 1 and Feature 2 can classify the labels completely as they explicitly divides to labels or we can draw a boundary seperating blue and yellow labels.
