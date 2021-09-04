@@ -1,0 +1,6 @@
+The best plot(classifying the two labels perfectly) was obtained in the plot of Feature 1 and Feature 2. The two features were observed to be distinct in this plot.They were observed to form concentric quarter circles.
+
+Moreover, significant plots were observed between Features 5,9 and Features 7,9.
+Here the Two features were not observed to be distinct, rather they were observed to form a broad wave like band.
+
+Rest all other combinations of features returned with a random plot.
