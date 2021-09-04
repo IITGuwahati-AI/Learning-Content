@@ -1,0 +1,6 @@
+Q1 to Q3
+From the plots it is clear that 1 and 2 are the two features which can classify the two labels perfectly.
+
+Q4 
+ 
+PCA plots also show classication for feature 1 vs 2.
