@@ -70,6 +70,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Ahemad Khan](https://github.com/ahemadkhan)
 - [Suraj Raj](https://github.com/Suraj3579)
 - [Modabbir Tarique](https://github.com/modabbir24)
+- [Peela Jaswanth Aravind Kumar](https://github.com/Jaswanth25)
 - [Shubham Singh](https://github.com/shubhamdvl)
 - [Ashish Dukare](https://github.com/ashishdukare)
 - [Akshi Mittal](https://github.com/Akshi13)
@@ -136,6 +137,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 15    | [vikyath](https://github.com/vikyath664)  |30
   | 16    | [Anirudh](https://github.com/Anirudh-1149)  |15
   
+
 
 # Phase 1 - 2018
 
