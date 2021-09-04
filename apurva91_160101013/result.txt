@@ -1,0 +1,1 @@
+seeing all the images in output folder, the plot between 1 vs 2 is the best feature that shows the difference between label 1 and label 2 as the clusters made by them don't overlap.
