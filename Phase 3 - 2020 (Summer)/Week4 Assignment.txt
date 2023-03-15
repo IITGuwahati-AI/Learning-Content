@@ -1,0 +1,5 @@
+Assignment : Week 4
+
+1. The Logistic Regression 'One vs All' is implemented in OneVsAll.ipynb.
+
+2. The Feedforward Neural Network Prediction is implemented in  NeuralNetwork.ipynb.
